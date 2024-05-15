@@ -38,8 +38,7 @@
     "assetsTable": {
       "fileName": "ファイル名",
       "fileSize": "サイズ",
-      "architecture": "アーキテクチャ",
-      "caption": "Floorpのダウンロード可能なリストです。"
+      "architecture": "アーキテクチャ"
     },
     "daylight": {
       "label": "Floorp Daylightをダウンロード",
