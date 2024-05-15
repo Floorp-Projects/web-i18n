@@ -1,0 +1,2 @@
+# Translations for Floorp Web
+
