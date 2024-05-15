@@ -25,21 +25,14 @@
     "description": "FloorpはFirefoxをベースに日本で作られた、プライバシーと柔軟性に優れた新しいブラウザです。"
   },
   "metadata": {
-    "title": "Floorp Browser"
+    "title": "Floorp ブラウザ"
   },
   "downloadPage": {
     "download": "Floorpをダウンロード",
-    "description": "ダウンロードしたいバージョンを選択してください。",
     "downloadAlert": "Floorpをダウンロードすると、<1>プライバシーポリシー</1>に同意したものとみなされます。",
     "releaseDate": "{{date}}にリリース",
     "downloadHashes": "ハッシュをダウンロード",
-    "dropdownLocale": {
-      "notFound": "見つかりません",
-      "notSelected": "プラットフォームを選択",
-      "placeholder": "プラットフォームを選択...",
-      "label": "あなたのプラットフォーム",
-      "detect": "検出"
-    },
+    "detect": "検出",
     "latest": "最新",
     "versions": "バージョン",
     "assetsTable": {
@@ -53,7 +46,7 @@
       "description": "Floorp DaylightはFloorpのベータ版です。正常に動作しないかもしれません。",
       "alert": "本当に、Floorp Daylightをダウンロードしますか？正常に動作しないかもしれません。"
     },
-    "noReleaseFound": "No release found. Check back later."
+    "noReleaseFound": "リリースが見つかりませんでした。"
   },
   "landingPage": {
     "hero": "<1>Floorpによる</1>\n無制限の\nカスタマイズ性",
@@ -64,16 +57,6 @@
       "sourceCode": "ソースコードを見る"
     },
     "feature": "特徴",
-    "previewParallax": {
-      "title": "Floorp ブラウザ",
-      "description": "Floorpは日本で作られたFirefoxをベースにした新しいブラウザです。プライバシーと柔軟性に焦点を当てたブラウザです。",
-      "images": [
-        {
-          "title": "Floorp ブラウザ",
-          "key": "floorp1"
-        }
-      ]
-    },
     "features": [
       {
         "key": "privacy",
