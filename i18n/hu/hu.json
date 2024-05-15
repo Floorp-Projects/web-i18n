@@ -1,35 +1,35 @@
 {
   "components": {
-    "languageSelect": "言語を選択",
-    "inReview": "レビュー中",
-    "waitingForContributions": "貢献を待っています",
-    "starUs": "GitHubでStarをつける",
-    "loading": "読み込み中",
+    "languageSelect": "Nyelv",
+    "inReview": "Ellenőrzés alatt",
+    "waitingForContributions": "Fordításra vár",
+    "starUs": "Adj Csillagot GitHub-on",
+    "loading": "Betöltés",
     "header": {
       "links": {
-        "download": "ダウンロード",
-        "changelog": "変更履歴",
+        "download": "Letöltés",
+        "changelog": "Változáslista",
         "discord": "Discord",
         "github": "GitHub"
       }
     },
     "alerts": {
-      "warning": "警告",
-      "error": "エラー",
-      "success": "成功",
-      "info": "情報",
-      "dyk": "知ってましたか？"
+      "warning": "Figyelmeztetés",
+      "error": "Hiba",
+      "success": "Siker",
+      "info": "Információ",
+      "dyk": "Tudtad ezt?"
     }
   },
   "common": {
-    "description": "FloorpはFirefoxをベースに日本で作られた、プライバシーと柔軟性に優れた新しいブラウザです。"
+    "description": "Floorp egy Firefox-ot alapul vett Japánban készült, új, nagyszerű adatvédelemmel és rugalmassággal ellátott böngésző."
   },
   "metadata": {
-    "title": "Floorp Browser"
+    "title": "Floorp Böngésző"
   },
   "downloadPage": {
-    "download": "Floorpをダウンロード",
-    "description": "ダウンロードしたいバージョンを選択してください。",
+    "download": "Floorp Letöltése",
+    "description": "Kérlek válassz a letölteni kínált opciók közül.",
     "downloadAlert": "Floorpをダウンロードすると、<1>プライバシーポリシー</1>に同意したものとみなされます。",
     "releaseDate": "{{date}}にリリース",
     "downloadHashes": "ハッシュをダウンロード",
