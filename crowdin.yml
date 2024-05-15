@@ -1,3 +1,5 @@
 files:
-  - source: ja/ja.json
-    translation: '%two_letters_code%.json'
+preserve_hierarchy: true
+files:
+  - source: /i18n/ja/**/*
+    translation: /i18n/%two_letters_code%/**/%original_file_name%
