@@ -1,0 +1,3 @@
+files:
+  - source: ja/ja.json
+    translation: '%two_letters_code%.json'
