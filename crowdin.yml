@@ -1,4 +1,0 @@
-files:
-  - source: /src/en.json
-    translation: /i18n/%two_letters_code%/**/%two_letters_code%.json
-preserve_hierarchy: 1
