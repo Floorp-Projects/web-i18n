@@ -1,3 +1,4 @@
 files:
   - source: /i18n/en/dictionary.json
     translation: /i18n/%two_letters_code%/%file_name%.%file_extension%
+    update_option: update_as_unapproved
