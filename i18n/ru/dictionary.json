@@ -46,7 +46,7 @@
     "noReleaseFound": "Релизы не найдены."
   },
   "landingPage": {
-    "hero": "Безграничная кастомизация <1>с Floorp</1>",
+    "hero": "Безграничная\\nкастомизация\\n<1>с Floorp</1>",
     "heroCard": {
       "download": "Загрузить Floorp",
       "sourceCode": "Просмотреть исходный код"
