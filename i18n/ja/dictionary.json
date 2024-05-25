@@ -50,7 +50,7 @@
   "landingPage": {
     "hero": "<1>Floorpによる</1>\n無制限の\nカスタマイズ性",
     "heroCard": {
-      "title": "Floorp ブラウザ",
+      "title": "Floorp Browser",
       "description": "Floorpは日本で作られたFirefoxをベースにした新しいブラウザです。プライバシーと柔軟性に焦点を当てたブラウザです。",
       "download": "Floorpをダウンロード",
       "sourceCode": "ソースコードを見る"
@@ -99,7 +99,7 @@
     "latestArticle": "最新の記事",
     "article": {
       "readMore": "もっと読む",
-      "postedBy": "投稿者:",
+      "postedBy": "投稿者: ",
       "postedOn": "投稿日: "
     },
     "downloadFloorp": "Floorpブラウザの最新バージョンを入手"
