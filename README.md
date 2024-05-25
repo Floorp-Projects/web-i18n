@@ -1,6 +1,6 @@
 # Translations for Floorp Web
 
-You can find its source code [here](https://github.com/Floorp-Project/web).
+You can find its source code [here](https://github.com/Floorp-Projects/web).
 
 ## How to contribute
 
