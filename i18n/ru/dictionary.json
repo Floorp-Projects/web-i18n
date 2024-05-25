@@ -1,24 +1,24 @@
 {
   "components": {
-    "languageSelect": "Language",
-    "inReview": "In Review",
-    "waitingForContributions": "Waiting for review",
+    "languageSelect": "Язык",
+    "inReview": "В рассмотрении",
+    "waitingForContributions": "Ожидает рассмотрения",
     "starUs": "Star Us on GitHub",
-    "loading": "Loading",
+    "loading": "Загрузка",
     "header": {
       "links": {
-        "download": "Download",
-        "changelog": "Changelog",
+        "download": "Загрузить",
+        "changelog": "Список изменений",
         "discord": "Discord",
         "github": "GitHub"
       }
     },
     "alerts": {
-      "warning": "Warning",
-      "error": "Error",
+      "warning": "Предупреждение",
+      "error": "Ошибка",
       "success": "Success",
-      "info": "Info",
-      "dyk": "Did you know?"
+      "info": "Информация",
+      "dyk": "А вы знали?"
     }
   },
   "common": {
@@ -28,21 +28,21 @@
     "title": "Floorp Browser"
   },
   "downloadPage": {
-    "download": "Download Floorp",
-    "downloadAlert": "By downloading Floorp, you agree to the <1>Privacy Policy</1>.",
+    "download": "Загрузить Floorp",
+    "downloadAlert": "Загружая Floorp, вы соглашаетесь с <1>Политикой Конфиденциальности</1>.",
     "releaseDate": "Released on: {{date}}",
     "downloadHashes": "Download hashes",
     "detect": "Detect",
     "latest": "Latest",
-    "versions": "Versions",
+    "versions": "Версии",
     "assetsTable": {
-      "fileName": "File name",
-      "fileSize": "File size",
-      "architecture": "Architecture"
+      "fileName": "Имя файла ",
+      "fileSize": "Размер файла",
+      "architecture": "Архитектура"
     },
     "daylight": {
-      "label": "Download Floorp Daylight",
-      "description": "Floorp Daylight is a beta version of Floorp. It may not work properly.",
+      "label": "Загрузить Floorp Daylight",
+      "description": "Floorp Daylight является бета-версией Floorp. Она может не работать корректно.",
       "alert": "Are you sure you want to download Floorp Daylight? It may not work properly."
     },
     "noReleaseFound": "No releases found."
@@ -52,10 +52,10 @@
     "heroCard": {
       "title": "Floorp Browser",
       "description": "Floorp is a new browser based on Firefox, created in Japan. It is a browser focused on privacy and flexibility.",
-      "download": "Download Floorp",
-      "sourceCode": "View Source Code"
+      "download": "Загрузить Floorp",
+      "sourceCode": "Просмотреть исходный код"
     },
-    "feature": "Features",
+    "feature": "Особенности",
     "features": {
       "privacy": {
         "title": "Strong Tracking Protection",
