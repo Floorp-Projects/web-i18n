@@ -22,10 +22,8 @@
     }
   },
   "common": {
+    "title": "Floorp Browser",
     "description": "Floorp is a new Firefox based browser from Japan with excellent privacy & flexibility."
-  },
-  "metadata": {
-    "title": "Floorp Browser"
   },
   "downloadPage": {
     "download": "Download Floorp",
@@ -50,8 +48,6 @@
   "landingPage": {
     "hero": "Unlimited\nCustomization\n<1>with Floorp</1>",
     "heroCard": {
-      "title": "Floorp Browser",
-      "description": "Floorp is a new browser based on Firefox, created in Japan. It is a browser focused on privacy and flexibility.",
       "download": "Download Floorp",
       "sourceCode": "View Source Code"
     },
@@ -98,9 +94,7 @@
     },
     "latestArticle": "Latest article",
     "article": {
-      "readMore": "Read more",
-      "postedBy": "Posted by: ",
-      "postedOn": "Posted on: "
+      "readMore": "Read more"
     },
     "downloadFloorp": "Get the latest version of Floorp browser"
   }
