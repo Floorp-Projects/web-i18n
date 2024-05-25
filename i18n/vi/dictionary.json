@@ -99,7 +99,7 @@
     "latestArticle": "Latest article",
     "article": {
       "readMore": "Read more",
-      "postedBy": "Posted by:",
+      "postedBy": "Posted by: ",
       "postedOn": "Posted on: "
     },
     "downloadFloorp": "Get the latest version of Floorp browser"
