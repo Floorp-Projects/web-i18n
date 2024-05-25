@@ -28,7 +28,7 @@
   "downloadPage": {
     "download": "Загрузить Floorp",
     "downloadAlert": "Загружая Floorp, вы соглашаетесь с <1>Политикой Конфиденциальности</1>.",
-    "releaseDate": "Released on: {{date}}",
+    "releaseDate": "Выпущен в {{date}}",
     "downloadHashes": "Загрузить хеши",
     "detect": "Обнаружить",
     "latest": "Последняя",
@@ -41,12 +41,12 @@
     "daylight": {
       "label": "Загрузить Floorp Daylight",
       "description": "Floorp Daylight является бета-версией Floorp. Она может не работать корректно.",
-      "alert": "Are you sure you want to download Floorp Daylight? It may not work properly."
+      "alert": "Вы уверены, что хотите загрузить Floorp Daylight? Он может работать некорректно."
     },
     "noReleaseFound": "Релизы не найдены."
   },
   "landingPage": {
-    "hero": "Unlimited\nCustomization\n<1>with Floorp</1>",
+    "hero": "Безграничная кастомизация <1>с Floorp</1>",
     "heroCard": {
       "download": "Загрузить Floorp",
       "sourceCode": "Просмотреть исходный код"
@@ -54,20 +54,20 @@
     "feature": "Особенности",
     "features": {
       "privacy": {
-        "title": "Strong Tracking Protection",
-        "description": "By default, Floorp includes a robust tracking blocker, protecting users from a variety of malicious trackers lurking on the web. Additionally, it provides fingerprinting protection."
+        "title": "Защита от отслеживания",
+        "description": "Floorp по умолчанию оснащен мощным блокировщиком трекеров, который защищает пользователей от различных вредоносных скриптов, встречающихся в сети. В нём также встроена защита от фингерпринтинга."
       },
       "flexible": {
-        "title": "Flexible Layout",
-        "description": "Floorp's layout customization is unlimited. Move the tab bar to the bottom of the window, hide the title bar, and more. Create your own Floorp."
+        "title": "Гибкий интерфейс",
+        "description": "Возможности настройки дизайна Floorp безграничны. Вы можете перемещать панель вкладок в нижнюю часть окна, скрывать строку заголовка и многое другое. Создайте свой уникальный Floorp."
       },
       "switchable": {
-        "title": "Switchable Design",
-        "description": "In addition to the usual Firefox theme customization, Floorp allows you to switch between five different interface designs, including OS-specific themes."
+        "title": "Customizable Design",
+        "description": "Помимо привычной темы Firefox, Floorp предлагает переключение между пятью различными вариантами оформления интерфейса, включая темы для конкретных операционных систем."
       },
       "sidebar": {
         "title": "Регулярные обновления",
-        "description": "Floorp is based on Firefox ESR. Floorp will be updated every 4 weeks, with security updates provided before each Firefox release."
+        "description": "Floorp основан на Firefox ESR. Обновления Floorp будут выпускаться каждые 4 недели, при этом пакеты безопасности предоставляются до выхода каждой новой версии Firefox."
       },
       "noTracking": {
         "title": "Отсутствие слежки",
@@ -75,27 +75,27 @@
       },
       "openSource": {
         "title": "Основано на технологии Open Source",
-        "description": "The source code for Floorp is mostly public, allowing anyone to view it and contribute to Floorp. Not only is the browser itself open to the public, but the build environment is also open source."
+        "description": "Исходный код Floorp полностью открыт, предоставляя любому пользователю возможность его изучения. Но это еще не все: среда сборки также является открытой. Это означает, что каждый может не только ознакомиться с кодом браузера, но и с процессом его сборки."
       }
     },
     "columns": {
       "dualSidebar": {
-        "title": "Dual Sidebar",
-        "description": "Are you satisfied with just one sidebar? Want to open your website in the sidebar? Floorp features a built-in sidebar that can display a web panel and browser management tools for a comfortable browsing experience.\nA sidebar for busy people! Check everything from bookmarks and history to websites!"
+        "title": "Двойная боковая панель",
+        "description": "Are you not satisfied with just one sidebar? Want to open your website in the sidebar? Floorp features a built-in sidebar that can display a web panel and browser management tools for a comfortable browsing experience.\nA sidebar for busy people! Check everything from bookmarks and history to websites!"
       },
       "flexibleToolbar": {
-        "title": "Flexible Toolbar & Tab Bar",
-        "description": "Tree Style Tabs and use it as vertical tabs or in combination. Customize your bookmarks bar and more. It is such a browser that you can reach the itch.\nWe deliver the best customization for everyone from customization beginners to experts, such as custom CSS for those who want to be particular and basic themes!"
+        "title": "Гибкая панель инструментов и вкладок",
+        "description": "Organize your web browsing with Tree Style Tabs! Use them as a vertical tabs, or combine them both for ultimate flexibility. Customize your bookmarks bar and more to create the perfect browsing experience. Floorp empowers everyone to personalize their browser, from beginners to CSS experts. Choose from a variety of themes or craft your own with custom CSS!"
       },
       "privacyProtection": {
-        "title": "Think about the USER and the WEB",
-        "description": "Floorp does not track users and only blocks malicious tracking on websites. With Floorp you can build an internet that benefits both websites and users.\nBlocking only harmful trackers by listening to the opinions of both website owners who make a living from advertising and users who want to protect their privacy, why not use Floorp in finding a better internet?"
+        "title": "Забота о пользователе и цифровой среде",
+        "description": "Floorp не следит за пользователями и блокирует только вредоносные трекеры на сайтах. С Floorp вы можете создать интернет, который будет выгоден как веб-сайтам, так и пользователям.\n\nБлокируя только вредоносные трекеры, учитывая мнение как владельцев сайтов, зарабатывающих на рекламе, так и пользователей, заинтересованных в защите своей конфиденциальности, почему бы не использовать Floorp для создания лучшего интернета?"
       }
     },
     "latestArticle": "Последняя публикация",
     "article": {
-      "readMore": "Read more"
+      "readMore": "Читать далее"
     },
-    "downloadFloorp": "Get the latest version of Floorp browser"
+    "downloadFloorp": "Загрузить последнюю версию Floorp"
   }
 }
