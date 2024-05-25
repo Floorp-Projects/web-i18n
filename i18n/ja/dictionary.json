@@ -25,7 +25,7 @@
     "description": "FloorpはFirefoxをベースに日本で作られた、プライバシーと柔軟性に優れた新しいブラウザです。"
   },
   "metadata": {
-    "title": "Floorp ブラウザ"
+    "title": "Floorp Browser"
   },
   "downloadPage": {
     "download": "Floorpをダウンロード",
@@ -99,7 +99,7 @@
     "latestArticle": "最新の記事",
     "article": {
       "readMore": "もっと読む",
-      "postedBy": "投稿者: ",
+      "postedBy": "投稿者:",
       "postedOn": "投稿日: "
     },
     "downloadFloorp": "Floorpブラウザの最新バージョンを入手"
