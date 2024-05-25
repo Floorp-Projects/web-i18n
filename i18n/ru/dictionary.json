@@ -62,7 +62,7 @@
         "description": "Возможности настройки дизайна Floorp безграничны. Вы можете перемещать панель вкладок в нижнюю часть окна, скрывать строку заголовка и многое другое. Создайте свой уникальный Floorp."
       },
       "switchable": {
-        "title": "Customizable Design",
+        "title": "Настраиваемый дизайн",
         "description": "Помимо привычной темы Firefox, Floorp предлагает переключение между пятью различными вариантами оформления интерфейса, включая темы для конкретных операционных систем."
       },
       "sidebar": {
@@ -81,7 +81,7 @@
     "columns": {
       "dualSidebar": {
         "title": "Двойная боковая панель",
-        "description": "Are you not satisfied with just one sidebar? Want to open your website in the sidebar? Floorp features a built-in sidebar that can display a web panel and browser management tools for a comfortable browsing experience.\nA sidebar for busy people! Check everything from bookmarks and history to websites!"
+        "description": "Не устраивает всего одна боковая панель? Хотите открыть свой сайт в боковой панели? Floorp предлагает встроенную боковую панель, которая может отображать веб-панель и инструменты управления браузером для комфортного просмотра.\n\nБоковая панель для занятых людей! Проверяйте все, от закладок и истории до веб-сайтов!"
       },
       "flexibleToolbar": {
         "title": "Гибкая панель инструментов и вкладок",
