@@ -75,13 +75,13 @@
       },
       "openSource": {
         "title": "Powered by Open Source",
-        "description": "The source code for Floorp is mostly public, allowing anyone to view it and contribute to Floorp. Not only is the browser itself open to the public, but the build environment is also open source."
+        "description": "The source code for Floorp is public, allowing anyone to view it and contribute to Floorp. Not only is the browser itself open to the public, but the build environment is also open source."
       }
     },
     "columns": {
       "dualSidebar": {
         "title": "Dual Sidebar",
-        "description": "Are you satisfied with just one sidebar? Want to open your website in the sidebar? Floorp features a built-in sidebar that can display a web panel and browser management tools for a comfortable browsing experience.\nA sidebar for busy people! Check everything from bookmarks and history to websites!"
+        "description": "Are you not satisfied with just one sidebar? Want to open your website in the sidebar? Floorp features a built-in sidebar that can display a web panel and browser management tools for a comfortable browsing experience.\nA sidebar for busy people! Check everything from bookmarks and history to websites!"
       },
       "flexibleToolbar": {
         "title": "Flexible Toolbar & Tab Bar",
