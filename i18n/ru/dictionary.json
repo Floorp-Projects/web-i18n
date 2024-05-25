@@ -16,24 +16,22 @@
     "alerts": {
       "warning": "Предупреждение",
       "error": "Ошибка",
-      "success": "Success",
+      "success": "Успех",
       "info": "Информация",
       "dyk": "А вы знали?"
     }
   },
   "common": {
-    "description": "Floorp is a new Firefox based browser from Japan with excellent privacy & flexibility."
-  },
-  "metadata": {
-    "title": "Floorp Browser"
+    "title": "Floorp Browser",
+    "description": "Floorp - это новый японский браузер на базе Firefox с отличной конфиденциальностью и гибкостью."
   },
   "downloadPage": {
     "download": "Загрузить Floorp",
     "downloadAlert": "Загружая Floorp, вы соглашаетесь с <1>Политикой Конфиденциальности</1>.",
     "releaseDate": "Released on: {{date}}",
-    "downloadHashes": "Download hashes",
-    "detect": "Detect",
-    "latest": "Latest",
+    "downloadHashes": "Загрузить хеши",
+    "detect": "Обнаружить",
+    "latest": "Последняя",
     "versions": "Версии",
     "assetsTable": {
       "fileName": "Имя файла ",
@@ -45,13 +43,11 @@
       "description": "Floorp Daylight является бета-версией Floorp. Она может не работать корректно.",
       "alert": "Are you sure you want to download Floorp Daylight? It may not work properly."
     },
-    "noReleaseFound": "No releases found."
+    "noReleaseFound": "Релизы не найдены."
   },
   "landingPage": {
     "hero": "Unlimited\nCustomization\n<1>with Floorp</1>",
     "heroCard": {
-      "title": "Floorp Browser",
-      "description": "Floorp is a new browser based on Firefox, created in Japan. It is a browser focused on privacy and flexibility.",
       "download": "Загрузить Floorp",
       "sourceCode": "Просмотреть исходный код"
     },
@@ -70,15 +66,15 @@
         "description": "In addition to the usual Firefox theme customization, Floorp allows you to switch between five different interface designs, including OS-specific themes."
       },
       "sidebar": {
-        "title": "Regular Updates",
+        "title": "Регулярные обновления",
         "description": "Floorp is based on Firefox ESR. Floorp will be updated every 4 weeks, with security updates provided before each Firefox release."
       },
       "noTracking": {
-        "title": "No User Tracking",
-        "description": "We don't collect personal information from users. We don't track users. We don't sell user data. We have no affiliation with any advertising companies."
+        "title": "Отсутствие слежки",
+        "description": "Мы не собираем и не продаем информацию о наших пользователях. Мы не связаны ни с одной рекламной компанией."
       },
       "openSource": {
-        "title": "Powered by Open Source",
+        "title": "Основано на технологии Open Source",
         "description": "The source code for Floorp is mostly public, allowing anyone to view it and contribute to Floorp. Not only is the browser itself open to the public, but the build environment is also open source."
       }
     },
@@ -96,11 +92,9 @@
         "description": "Floorp does not track users and only blocks malicious tracking on websites. With Floorp you can build an internet that benefits both websites and users.\nBlocking only harmful trackers by listening to the opinions of both website owners who make a living from advertising and users who want to protect their privacy, why not use Floorp in finding a better internet?"
       }
     },
-    "latestArticle": "Latest article",
+    "latestArticle": "Последняя публикация",
     "article": {
-      "readMore": "Read more",
-      "postedBy": "Posted by: ",
-      "postedOn": "Posted on: "
+      "readMore": "Read more"
     },
     "downloadFloorp": "Get the latest version of Floorp browser"
   }
