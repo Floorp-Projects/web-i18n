@@ -2,8 +2,8 @@
   "components": {
     "languageSelect": "言語を選択",
     "inReview": "レビュー中",
-    "waitingForContributions": "貢献を待っています",
-    "starUs": "GitHubでStarをつける",
+    "waitingForContributions": "レビュー待ち",
+    "starUs": "GitHubでスターをつける",
     "loading": "読み込み中",
     "header": {
       "links": {
@@ -25,12 +25,12 @@
     "description": "FloorpはFirefoxをベースに日本で作られた、プライバシーと柔軟性に優れた新しいブラウザです。"
   },
   "metadata": {
-    "title": "Floorp Browser"
+    "title": "Floorp ブラウザー"
   },
   "downloadPage": {
     "download": "Floorpをダウンロード",
     "downloadAlert": "Floorpをダウンロードすると、<1>プライバシーポリシー</1>に同意したものとみなされます。",
-    "releaseDate": "{{date}}にリリース",
+    "releaseDate": "リリース日: {{date}}",
     "downloadHashes": "ハッシュをダウンロード",
     "detect": "検出",
     "latest": "最新",
