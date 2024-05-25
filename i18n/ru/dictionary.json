@@ -3,7 +3,7 @@
     "languageSelect": "Язык",
     "inReview": "В рассмотрении",
     "waitingForContributions": "Ожидает рассмотрения",
-    "starUs": "Star Us on GitHub",
+    "starUs": "Поставьте нам звезду на GitHub",
     "loading": "Загрузка",
     "header": {
       "links": {
@@ -85,7 +85,7 @@
       },
       "flexibleToolbar": {
         "title": "Гибкая панель инструментов и вкладок",
-        "description": "Organize your web browsing with Tree Style Tabs! Use them as a vertical tabs, or combine them both for ultimate flexibility. Customize your bookmarks bar and more to create the perfect browsing experience. Floorp empowers everyone to personalize their browser, from beginners to CSS experts. Choose from a variety of themes or craft your own with custom CSS!"
+        "description": "Организуйте работу с вкладками с помощью древовидных вкладок. Используйте их вертикально или комбинируйте для максимальной гибкости. Настройте панель закладок и многое другое, чтобы создать идеальный браузерный опыт. Floorp позволяет каждому персонализировать свой браузер, от новичков до экспертов CSS. Выбирайте из множества тем или создайте свою собственную с помощью пользовательского CSS!"
       },
       "privacyProtection": {
         "title": "Забота о пользователе и цифровой среде",
