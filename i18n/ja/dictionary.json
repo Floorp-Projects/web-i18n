@@ -22,7 +22,7 @@
     }
   },
   "common": {
-    "title": "Floorp Browser",
+    "title": "Floorp ブラウザー",
     "description": "FloorpはFirefoxをベースに日本で作られた、プライバシーと柔軟性に優れた新しいブラウザです。"
   },
   "downloadPage": {
@@ -46,7 +46,7 @@
     "noReleaseFound": "リリースが見つかりませんでした。"
   },
   "landingPage": {
-    "hero": "<1>Floorpによる</1>\n無制限の\nカスタマイズ性",
+    "hero": "無制限の\nカスタマイズを\n<1>Floorp で</1>",
     "heroCard": {
       "download": "Floorpをダウンロード",
       "sourceCode": "ソースコードを見る"
