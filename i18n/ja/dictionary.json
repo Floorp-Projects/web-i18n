@@ -16,7 +16,7 @@
     "alerts": {
       "warning": "警告",
       "error": "エラー",
-      "success": "成功",
+      "success": "完了",
       "info": "情報",
       "dyk": "知ってましたか？"
     }
