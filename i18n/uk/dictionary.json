@@ -28,37 +28,37 @@
   "downloadPage": {
     "download": "Завантажити Floorp",
     "downloadAlert": "Завантажуючи Floorp, ви погоджуєтесь з <1>Політикою Конфіденційності</1>.",
-    "releaseDate": "Released on: {{date}}",
+    "releaseDate": "Випущено в: {{date}}",
     "downloadHashes": "Завантажити хеш",
-    "detect": "Detect",
-    "latest": "Latest",
+    "detect": "Виявити",
+    "latest": "Остання",
     "versions": "Версії",
     "assetsTable": {
       "fileName": "Назва файлу",
-      "fileSize": "File size",
-      "architecture": "Architecture"
+      "fileSize": "Розмір файлу",
+      "architecture": "Архітектура"
     },
     "daylight": {
-      "label": "Download Floorp Daylight",
+      "label": "Завантажити Floorp Daylight",
       "description": "Floorp Daylight is a beta version of Floorp. It may not work properly.",
-      "alert": "Are you sure you want to download Floorp Daylight? It may not work properly."
+      "alert": "Ви впевнені, що хочете завантажити Floorp Daylight? Він може працювати некоректно."
     },
     "noReleaseFound": "No releases found."
   },
   "landingPage": {
-    "hero": "Unlimited\nCustomization\n<1>with Floorp</1>",
+    "hero": "Безмежна\nкастомізація\n<1>з Floorp</1>",
     "heroCard": {
-      "download": "Download Floorp",
-      "sourceCode": "View Source Code"
+      "download": "Завантажити Floorp",
+      "sourceCode": "Переглянути початковий код"
     },
-    "feature": "Features",
+    "feature": "Особливості",
     "features": {
       "privacy": {
         "title": "Strong Tracking Protection",
         "description": "By default, Floorp includes a robust tracking blocker, protecting users from a variety of malicious trackers lurking on the web. Additionally, it provides fingerprinting protection."
       },
       "flexible": {
-        "title": "Flexible Layout",
+        "title": "Гнучкий інтерфейс",
         "description": "Floorp's layout customization is unlimited. Move the tab bar to the bottom of the window, hide the title bar, and more. Create your own Floorp."
       },
       "switchable": {
@@ -66,21 +66,21 @@
         "description": "In addition to the usual Firefox theme customization, Floorp allows you to switch between five different interface designs, including OS-specific themes."
       },
       "sidebar": {
-        "title": "Regular Updates",
+        "title": "Регулярні оновлення",
         "description": "Floorp is based on Firefox ESR. Floorp will be updated every 4 weeks, with security updates provided before each Firefox release."
       },
       "noTracking": {
         "title": "No User Tracking",
-        "description": "We don't collect personal information from users. We don't track users. We don't sell user data. We have no affiliation with any advertising companies."
+        "description": "Ми не збираємо та не продаємо інформацію про наших користувачів. Ми не пов'язані з жодною рекламною компанією."
       },
       "openSource": {
         "title": "Powered by Open Source",
-        "description": "Floorp's source code is entirely open, allowing anyone to view it and contribute to the project. Not only is the browser itself open source, but the build environment is as well."
+        "description": "Код Floorp повністю відкритий, що дає можливість будь-кому його вивчати. Крім того, відкрите й середовище збирання. Це означає, що кожен може не лише ознайомитися з кодом браузера, але й з процесом його збирання."
       }
     },
     "columns": {
       "dualSidebar": {
-        "title": "Dual Sidebar",
+        "title": "Двійна бічна панель",
         "description": "Are you not satisfied with just one sidebar? Want to open your website in the sidebar? Floorp features a built-in sidebar that can display a web panel and browser management tools for a comfortable browsing experience.\nA sidebar for busy people! Check everything from bookmarks and history to websites!"
       },
       "flexibleToolbar": {
@@ -92,7 +92,7 @@
         "description": "Floorp does not track users and only blocks malicious tracking on websites. With Floorp you can build an internet that benefits both websites and users.\nBlocking only harmful trackers by listening to the opinions of both website owners who make a living from advertising and users who want to protect their privacy, why not use Floorp in finding a better internet?"
       }
     },
-    "latestArticle": "Latest article",
+    "latestArticle": "Останні публікації",
     "article": {
       "readMore": "Read more"
     },
