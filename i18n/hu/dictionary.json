@@ -67,35 +67,35 @@
       },
       "sidebar": {
         "title": "Rendszeres frissítések",
-        "description": "Floorp is based on Firefox ESR. Floorp will be updated every 4 weeks, with security updates provided before each Firefox release."
+        "description": "Floorp a Firefox ESR-t veszi alapul. Floorp frissítve van minden 4 hétben, miden Firefox biztonsági frissítéseit Floorp is integrálja és kiadja őket."
       },
       "noTracking": {
-        "title": "No User Tracking",
-        "description": "We don't collect personal information from users. We don't track users. We don't sell user data. We have no affiliation with any advertising companies."
+        "title": "Nincs felhasználó lekövetés",
+        "description": "Mi nem gyűjtünk semmilyen információt felhasználóinktól. Nem követjül le őket. Nem adjuk el adataikat. Semmi reklamozó céggel nincs kapcsolatunk."
       },
       "openSource": {
-        "title": "Powered by Open Source",
-        "description": "Floorp's source code is entirely open, allowing anyone to view it and contribute to the project. Not only is the browser itself open source, but the build environment is as well."
+        "title": "Minden nyíltforráskódú",
+        "description": "Floorp forráskódja teljesen nyílt, ezáltal lehetővé teszi, hogy bárki hozzájáruljon a projekthez. Nem csak a böngésző a nyíltforráskódú, hanem a fejlesztői építő környezet is."
       }
     },
     "columns": {
       "dualSidebar": {
-        "title": "Dual Sidebar",
-        "description": "Are you not satisfied with just one sidebar? Want to open your website in the sidebar? Floorp features a built-in sidebar that can display a web panel and browser management tools for a comfortable browsing experience.\nA sidebar for busy people! Check everything from bookmarks and history to websites!"
+        "title": "Kettős oldalsáv",
+        "description": "Nem vagy elégedett csak egy oldalsávval? Kiszeretnéd nyitni a weboldalakt az oldalsávban? Floorp bemutat egy beépített oldalsávot, ami egy weboldal panelt és bönésző kezelési eszközöket tud tartalmazni a még kényelmesebb böngészési élmény érdekében.\nEgy oldalsáv elfoglalt embereknek! Adj hozzá bármit a könyvjlzőid és az előzményeidtől kezdve egészen bármilyen weboldalig!"
       },
       "flexibleToolbar": {
-        "title": "Flexible Toolbar & Tab Bar",
-        "description": "Organize your web browsing with Tree Style Tabs! Use them as a vertical tabs, or combine them both for ultimate flexibility. Customize your bookmarks bar and more to create the perfect browsing experience. Floorp empowers everyone to personalize their browser, from beginners to CSS experts. Choose from a variety of themes or craft your own with custom CSS!"
+        "title": "Rugalmas eszköztár és Tab sáv",
+        "description": "Szervezd webes böngészésed a Tree Style Tabs-el! Használd őket függőleges lapok ként, vagy kombináld mindkettőt a legnagyobb rugalmasság érdekében. Testreszabhatod a könyvjelzősávot és még sok mást is, hogy tökéletes böngészési élményt nyújtson neked. Floorp mindenki számára lehetővé teszi a böngésző személyre szabását, egészen a kezdőktől a CSS-szakértőkig. Válassz a különböző témák közül, vagy alkoss sajátot egyéni CSS-el!"
       },
       "privacyProtection": {
-        "title": "Caring about the User and the Web",
-        "description": "Floorp does not track users and only blocks malicious tracking on websites. With Floorp you can build an internet that benefits both websites and users.\nBlocking only harmful trackers by listening to the opinions of both website owners who make a living from advertising and users who want to protect their privacy, why not use Floorp in finding a better internet?"
+        "title": "Törődünk a felhasználóval és a web-el",
+        "description": "Floorp nem követi le a felhasználókat, és csak a rosszindulatú lekövetést blokkolja a webhelyeken. Floorp segítségével olyan internetet építhetsz, amely mind a weboldalak, mind a felhasználók számára előnyös.\nCsak a káros nyomkövetőket blokkolja, figyelembe véve mind a reklámokból élő webhelytulajdonosok, mind a magánéletüket védeni kívánó felhasználók véleményét, miért ne használnád a Floorp-ot egy jobb böngészési élmégny megtalálásában?"
       }
     },
-    "latestArticle": "Latest articles",
+    "latestArticle": "Legfrissebb cikkek",
     "article": {
-      "readMore": "Read more"
+      "readMore": "Olvass még"
     },
-    "downloadFloorp": "Get the latest version of Floorp browser"
+    "downloadFloorp": "Szerezd meg a legújabb Floorp Böngésző-t"
   }
 }
