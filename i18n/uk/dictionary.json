@@ -40,10 +40,10 @@
     },
     "daylight": {
       "label": "Завантажити Floorp Daylight",
-      "description": "Floorp Daylight is a beta version of Floorp. It may not work properly.",
+      "description": "Floorp Daylight є бета-версією Floorp. Вона може працювати нестабільно.",
       "alert": "Ви впевнені, що хочете завантажити Floorp Daylight? Він може працювати некоректно."
     },
-    "noReleaseFound": "No releases found."
+    "noReleaseFound": "Випуски не були знайдені."
   },
   "landingPage": {
     "hero": "Безмежна\nкастомізація\n<1>з Floorp</1>",
@@ -54,48 +54,48 @@
     "feature": "Особливості",
     "features": {
       "privacy": {
-        "title": "Strong Tracking Protection",
-        "description": "By default, Floorp includes a robust tracking blocker, protecting users from a variety of malicious trackers lurking on the web. Additionally, it provides fingerprinting protection."
+        "title": "Захист від відстеження",
+        "description": "Floorp за замовчуванням має потужний блокувальник трекерів, який захищає користувачів від різних шкідливих скриптів, що зустрічаються в мережі. Він також має вбудований захист від фінгерпрінтінгу."
       },
       "flexible": {
         "title": "Гнучкий інтерфейс",
-        "description": "Floorp's layout customization is unlimited. Move the tab bar to the bottom of the window, hide the title bar, and more. Create your own Floorp."
+        "description": "Можливості налаштування інтерфейсу Floorp необмежені. Перемістіть панель вкладок у нижню частину вікна, приховайте рядок заголовка тощо. Створіть свій власний Floorp."
       },
       "switchable": {
-        "title": "Customizable Design",
-        "description": "In addition to the usual Firefox theme customization, Floorp allows you to switch between five different interface designs, including OS-specific themes."
+        "title": "Персоналізований дизайн",
+        "description": "Окрім звичної теми Firefox, Floorp може перемикатись між п'ятьма різними варіантами оформлення інтерфейсу, включаючи теми для конкретних операційних систем."
       },
       "sidebar": {
         "title": "Регулярні оновлення",
-        "description": "Floorp is based on Firefox ESR. Floorp will be updated every 4 weeks, with security updates provided before each Firefox release."
+        "description": "Floorp базується на Firefox ESR. Floorp оновлюється кожні 4 тижні, а оновлення безпеки надаються перед кожним релізом Firefox."
       },
       "noTracking": {
-        "title": "No User Tracking",
+        "title": "Відсутність стеження",
         "description": "Ми не збираємо та не продаємо інформацію про наших користувачів. Ми не пов'язані з жодною рекламною компанією."
       },
       "openSource": {
-        "title": "Powered by Open Source",
+        "title": "На базі технології Open Source",
         "description": "Код Floorp повністю відкритий, що дає можливість будь-кому його вивчати. Крім того, відкрите й середовище збирання. Це означає, що кожен може не лише ознайомитися з кодом браузера, але й з процесом його збирання."
       }
     },
     "columns": {
       "dualSidebar": {
         "title": "Двійна бічна панель",
-        "description": "Are you not satisfied with just one sidebar? Want to open your website in the sidebar? Floorp features a built-in sidebar that can display a web panel and browser management tools for a comfortable browsing experience.\nA sidebar for busy people! Check everything from bookmarks and history to websites!"
+        "description": "Не влаштовує всього одна бічна панель? Хочете відкрити свій веб-сайт у бічній панелі? Floorp пропонує вбудовану бічну панель, яка може відображати веб-панель і інструменти управління браузером для зручного перегляду.\n\nБічна панель для зайнятих людей! Перевіряйте все, від закладок і історії до веб-сайтів!"
       },
       "flexibleToolbar": {
-        "title": "Flexible Toolbar & Tab Bar",
-        "description": "Organize your web browsing with Tree Style Tabs! Use them as a vertical tabs, or combine them both for ultimate flexibility. Customize your bookmarks bar and more to create the perfect browsing experience. Floorp empowers everyone to personalize their browser, from beginners to CSS experts. Choose from a variety of themes or craft your own with custom CSS!"
+        "title": "Гнучка панель інструментів та вкладок",
+        "description": "Організуйте роботу з вкладками за допомогою деревоподібних вкладок. Використовуйте їх вертикально або комбінуйте для максимальної гнучкості. Налаштуйте панель закладок та багато іншого, щоб створити ідеальний браузерний досвід. Floorp дозволяє кожному персоналізувати свій браузер, від новачків до експертів CSS. Обирайте з безлічі тем або створіть власну за допомогою користувацького CSS!"
       },
       "privacyProtection": {
-        "title": "Caring about the User and the Web",
-        "description": "Floorp does not track users and only blocks malicious tracking on websites. With Floorp you can build an internet that benefits both websites and users.\nBlocking only harmful trackers by listening to the opinions of both website owners who make a living from advertising and users who want to protect their privacy, why not use Floorp in finding a better internet?"
+        "title": "Піклування о користувачі та цифровому середовищі",
+        "description": "Floorp не стежить за користувачами та блокує тільки шкідливі трекери на сайтах. З Floorp ви можете створити інтернет, який буде вигідний як веб-сайтам, так і користувачам.\n\nБлокуючи тільки шкідливі трекери, враховуючи думку як власників сайтів, що заробляють на рекламі, так і користувачів, зацікавлених у захисті своєї конфіденційності, чому б не використовувати Floorp для створення кращого інтернету?"
       }
     },
     "latestArticle": "Останні публікації",
     "article": {
-      "readMore": "Read more"
+      "readMore": "Читати далі"
     },
-    "downloadFloorp": "Get the latest version of Floorp browser"
+    "downloadFloorp": "Завантажити останню версію Floorp"
   }
 }
