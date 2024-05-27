@@ -1,72 +1,72 @@
 {
   "components": {
-    "languageSelect": "Language",
-    "inReview": "In Review",
-    "waitingForContributions": "Waiting for review",
-    "starUs": "Star Us on GitHub",
-    "loading": "Loading",
+    "languageSelect": "Nyelv",
+    "inReview": "Átnézés alatt",
+    "waitingForContributions": "Várakozik átnézésre",
+    "starUs": "Adj csillgot GitHub-on",
+    "loading": "Betöltés",
     "header": {
       "links": {
-        "download": "Download",
+        "download": "Letöltés",
         "changelog": "Changelog",
         "discord": "Discord",
         "github": "GitHub"
       }
     },
     "alerts": {
-      "warning": "Warning",
-      "error": "Error",
-      "success": "Success",
-      "info": "Info",
-      "dyk": "Did you know?"
+      "warning": "Figyelem",
+      "error": "Hiba",
+      "success": "Siker",
+      "info": "Információ",
+      "dyk": "Tudtad ezt?"
     }
   },
   "common": {
-    "title": "Floorp Browser",
-    "description": "Floorp is a new Firefox based browser from Japan with excellent privacy & flexibility."
+    "title": "Floorp Böngésző",
+    "description": "Floorp egy új Firefox alapú böngésző Japánból, páratlan adatvédelemmel és rugalmassággal."
   },
   "downloadPage": {
-    "download": "Download Floorp",
-    "downloadAlert": "By downloading Floorp, you agree to the <1>Privacy Policy</1>.",
-    "releaseDate": "Released on: {{date}}",
-    "downloadHashes": "Download hashes",
-    "detect": "Detect",
-    "latest": "Latest",
-    "versions": "Versions",
+    "download": "Töltsd le Floorp-ot",
+    "downloadAlert": "Floorp letöltésével egyetértesz az <1>Adatvédelmi Irányelveknek</1>.",
+    "releaseDate": "Kiadás: {{date}}",
+    "downloadHashes": "Hash-ek letöltése",
+    "detect": "Felismer",
+    "latest": "Legfrissebb",
+    "versions": "Verziók",
     "assetsTable": {
-      "fileName": "File name",
-      "fileSize": "File size",
-      "architecture": "Architecture"
+      "fileName": "Fájl név",
+      "fileSize": "Fájl méret",
+      "architecture": "Architektúra"
     },
     "daylight": {
-      "label": "Download Floorp Daylight",
-      "description": "Floorp Daylight is a beta version of Floorp. It may not work properly.",
-      "alert": "Are you sure you want to download Floorp Daylight? It may not work properly."
+      "label": "Floorp Daylight letöltése",
+      "description": "Floorp Daylight az egy béta verziója Floorp-nak. Nem biztos hogy jól működik minden.",
+      "alert": "Biztos vagy benne, hogy le szeretnéd tölteni a Floorp Daylight-ot? Nem biztos, hogy minden jól műkodik."
     },
-    "noReleaseFound": "No releases found."
+    "noReleaseFound": "Nincsenek kiadások."
   },
   "landingPage": {
-    "hero": "Unlimited\nCustomization\n<1>with Floorp</1>",
+    "hero": "<1>Floorp-al</1>\nVégtelen\nTestreszabás",
     "heroCard": {
-      "download": "Download Floorp",
-      "sourceCode": "View Source Code"
+      "download": "Töltsd le Floorp-ot",
+      "sourceCode": "Forráskód megtekintése"
     },
-    "feature": "Features",
+    "feature": "Funkciók",
     "features": {
       "privacy": {
-        "title": "Strong Tracking Protection",
-        "description": "By default, Floorp includes a robust tracking blocker, protecting users from a variety of malicious trackers lurking on the web. Additionally, it provides fingerprinting protection."
+        "title": "Lekövetés elleniv védelem",
+        "description": "Floorp alapbeállítással is tartalmaz egy effektív lekövetés blokkolót, amely megvéd sok féle rosszindulatú lekövetésektől amelyek a weben leselkednek. Ezenfelül ujjlenyomat (fingerprint) védelemmel is rendelkezik."
       },
       "flexible": {
-        "title": "Flexible Layout",
-        "description": "Floorp's layout customization is unlimited. Move the tab bar to the bottom of the window, hide the title bar, and more. Create your own Floorp."
+        "title": "Rugalmas elrendezés",
+        "description": "Floorp elrendezésének testreszabása végtelen. Tedd a tab-eket az ablakod aljára, rejtsd el a címsort és még sok más. Készítsd el saját Floorp-od."
       },
       "switchable": {
-        "title": "Customizable Design",
-        "description": "In addition to the usual Firefox theme customization, Floorp allows you to switch between five different interface designs, including OS-specific themes."
+        "title": "Testreszabható dizájn",
+        "description": "Az alap Firefox téma szerkesztőre ráadásul Floorp lehetővé teszi, hogy válts 5 különböző interfész dizájn közöt, nem is beszélve az OS specifikus témákról."
       },
       "sidebar": {
-        "title": "Regular Updates",
+        "title": "Rendszeres frissítések",
         "description": "Floorp is based on Firefox ESR. Floorp will be updated every 4 weeks, with security updates provided before each Firefox release."
       },
       "noTracking": {
@@ -92,7 +92,7 @@
         "description": "Floorp does not track users and only blocks malicious tracking on websites. With Floorp you can build an internet that benefits both websites and users.\nBlocking only harmful trackers by listening to the opinions of both website owners who make a living from advertising and users who want to protect their privacy, why not use Floorp in finding a better internet?"
       }
     },
-    "latestArticle": "Latest article",
+    "latestArticle": "Latest articles",
     "article": {
       "readMore": "Read more"
     },
