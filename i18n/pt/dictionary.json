@@ -1,34 +1,34 @@
 {
   "components": {
-    "languageSelect": "Language",
-    "inReview": "In Review",
-    "waitingForContributions": "Waiting for review",
-    "starUs": "Star Us on GitHub",
-    "loading": "Loading",
+    "languageSelect": "Língua",
+    "inReview": "Em revisão",
+    "waitingForContributions": "Esperando por revisão",
+    "starUs": "Estrele-nos no GitHub",
+    "loading": "Carregando",
     "header": {
       "links": {
         "download": "Download",
-        "changelog": "Changelog",
+        "changelog": "Lista de alterações",
         "discord": "Discord",
         "github": "GitHub"
       }
     },
     "alerts": {
-      "warning": "Warning",
-      "error": "Error",
-      "success": "Success",
-      "info": "Info",
-      "dyk": "Did you know?"
+      "warning": "Alerta",
+      "error": "Erro",
+      "success": "Sucesso",
+      "info": "Informação",
+      "dyk": "Você sabia?"
     }
   },
   "common": {
-    "title": "Floorp Browser",
-    "description": "Floorp is a new Firefox based browser from Japan with excellent privacy & flexibility."
+    "title": "Navegador Floorp",
+    "description": "Floorp é um novo navegador do Japão baseado no Firefox com excelente privacidade e flexibilidade."
   },
   "downloadPage": {
-    "download": "Download Floorp",
-    "downloadAlert": "By downloading Floorp, you agree to the <1>Privacy Policy</1>.",
-    "releaseDate": "Released on: {{date}}",
+    "download": "Baixar Floorp",
+    "downloadAlert": "Ao baixar Floorp, você concorda com a <1>Política de Privacidade</1>.",
+    "releaseDate": "Lançado em: {{date}}",
     "downloadHashes": "Download hashes",
     "detect": "Detect",
     "latest": "Latest",
