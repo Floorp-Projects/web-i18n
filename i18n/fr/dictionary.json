@@ -81,18 +81,18 @@
     "columns": {
       "dualSidebar": {
         "title": "Double barres latérales",
-        "description": "Vous n'êtes pas satisfait d'une seule barre latérale ? Vous voulez ouvrir votre site internet dans la barre latérale ? Floorp vous propose une barre latérale intégrée qui peut afficher un panneau web et des outils de gestion pour une expérience de navigation confortable.\nUne barre latérale pour les personnes occupées ! Vérifiez tout, des marque-pages à l'historique en passant par les sites internet !"
+        "description": "Vous n'êtes pas satisfait par une simple barre latérale ? Vous voulez ouvrir votre site internet dedans ? Floorp intègre une barre latérale qui peut afficher une page internet et des outils de gestion pour navigateur afin d'avoir une expérience de navigation confortable.\nParfait pour les personnes occupées ! Vérifiez tout, des signets à l'historique en passant par les sites internet !"
       },
       "flexibleToolbar": {
         "title": "Barre d'outil et d'onglets flexibles",
-        "description": "Organisez votre navigation internet avec Tree Style Tabs ! Utilisez-les comme des onglets verticaux ou combinez-les pour une flexibilité optimale. Personnalisez votre barre de marque-pages et plus encore pour créer une expérience de navigation parfaite. Floorp permet à chacun de personnaliser son navigateur, des débutants aux experts CSS. Choisissez parmi une variété de thèmes ou créez le vôtre avec du CSS personnalisé !"
+        "description": "Organisez votre navigation internet avec Tree Style Tabs ! Utilisez-les comme des onglets verticaux ou combinez-les pour une flexibilité optimale. Personnalisez votre barre de marque-pages et plus encore pour créer une expérience de navigation parfaite. Floorp permet à chacun de personnaliser son navigateur, des débutants aux experts CSS. Choisissez parmi une variété de thèmes ou créez le vôtre personnalisé !"
       },
       "privacyProtection": {
         "title": "Se préoccuper de l'utilisateur et du web",
         "description": "Floorp ne suit pas les utilisateurs et bloque uniquement les traceurs malveillants sur les sites internet. Avec Floorp, vous pouvez construire un internet qui profite à la fois aux sites web et aux utilisateurs.\nEn bloquant seulement les traceurs malveillants et en écoutant les opinions des propriétaires de sites web qui vivent de la publicité et des utilisateurs qui veulent protéger leur vie privée, pourquoi ne pas utiliser Floorp pour trouver un meilleur internet ?"
       }
     },
-    "latestArticle": "Dernier article",
+    "latestArticle": "Derniers articles",
     "article": {
       "readMore": "Lire plus"
     },
