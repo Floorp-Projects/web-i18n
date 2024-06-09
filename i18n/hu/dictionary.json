@@ -88,7 +88,7 @@
         "description": "Szervezd webes böngészésed a Tree Style Tabs-el! Használd őket függőleges lapok ként, vagy kombináld mindkettőt a legnagyobb rugalmasság érdekében. Testreszabhatod a könyvjelzősávot és még sok mást is, hogy tökéletes böngészési élményt nyújtson neked. Floorp mindenki számára lehetővé teszi a böngésző személyre szabását, egészen a kezdőktől a CSS-szakértőkig. Válassz a különböző témák közül, vagy alkoss sajátot egyéni CSS-el!"
       },
       "privacyProtection": {
-        "title": "Törődünk a felhasználóval és a web-el",
+        "title": "Gondolunk a felhasználóra és a web-re",
         "description": "Floorp nem követi le a felhasználókat, és csak a rosszindulatú lekövetést blokkolja a webhelyeken. Floorp segítségével olyan internetet építhetsz, amely mind a weboldalak, mind a felhasználók számára előnyös.\nCsak a káros nyomkövetőket blokkolja, figyelembe véve mind a reklámokból élő webhelytulajdonosok, mind a magánéletüket védeni kívánó felhasználók véleményét, miért ne használnád a Floorp-ot egy jobb böngészési élmégny megtalálásában?"
       }
     },
@@ -96,6 +96,6 @@
     "article": {
       "readMore": "Olvass még"
     },
-    "downloadFloorp": "Szerezd meg a legújabb Floorp Böngésző-t"
+    "downloadFloorp": "Töltsd le a legújabb Floorp Böngésző-t"
   }
 }
