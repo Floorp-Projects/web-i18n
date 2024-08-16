@@ -1,8 +1,8 @@
 {
   "components": {
-    "languageSelect": "Language",
-    "inReview": "In Review",
-    "waitingForContributions": "Waiting for review",
+    "languageSelect": "언어",
+    "inReview": "리뷰에서",
+    "waitingForContributions": "리뷰 대기 중",
     "starUs": "Star Us on GitHub",
     "loading": "Loading",
     "header": {
