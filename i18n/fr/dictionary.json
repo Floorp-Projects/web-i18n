@@ -51,7 +51,7 @@
       "download": "Télécharger Floorp",
       "sourceCode": "Consulter le code source"
     },
-    "feature": "Fonctionnalité",
+    "feature": "Fonctionnalités",
     "features": {
       "privacy": {
         "title": "Protection renforcée contre le pistage",
@@ -81,7 +81,7 @@
     "columns": {
       "dualSidebar": {
         "title": "Double barres latérales",
-        "description": "Vous n'êtes pas satisfait par une simple barre latérale ? Vous voulez ouvrir votre site internet dedans ? Floorp intègre une barre latérale qui peut afficher une page internet et des outils de gestion pour navigateur afin d'avoir une expérience de navigation confortable.\nParfait pour les personnes occupées ! Vérifiez tout, des signets à l'historique en passant par les sites internet !"
+        "description": "Vous n'êtes pas satisfait par une simple barre latérale ? Vous voulez ouvrir votre site internet dedans ? Floorp intègre une barre latérale qui peut afficher une page internet et des outils de gestion pour navigateur afin d'avoir une expérience de navigation confortable.\nParfait pour les personnes occupées ! Vérifiez tout, des marques-page à l'historique en passant par les sites internet !"
       },
       "flexibleToolbar": {
         "title": "Barre d'outil et d'onglets flexibles",
