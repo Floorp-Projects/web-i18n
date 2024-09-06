@@ -1,101 +1,101 @@
 {
   "components": {
     "languageSelect": "Sprog",
-    "inReview": "In Review",
-    "waitingForContributions": "Waiting for review",
-    "starUs": "Star Us on GitHub",
+    "inReview": "I gennemgang",
+    "waitingForContributions": "Afventer gennemgang",
+    "starUs": "Stjerne os på GitHub",
     "loading": "Loading",
     "header": {
       "links": {
         "download": "Download",
-        "changelog": "Changelog",
+        "changelog": "Ændringslog",
         "discord": "Discord",
         "github": "GitHub"
       }
     },
     "alerts": {
-      "warning": "Warning",
-      "error": "Error",
-      "success": "Success",
+      "warning": "Advarsel",
+      "error": "Fejl",
+      "success": "Succes",
       "info": "Info",
-      "dyk": "Did you know?"
+      "dyk": "Vidste du det?"
     }
   },
   "common": {
     "title": "Floorp Browser",
-    "description": "Floorp is a new Firefox based browser from Japan with excellent privacy & flexibility."
+    "description": "Floorp er en ny Firefox-baseret browser fra Japan med fremragende privatliv og fleksibilitet."
   },
   "downloadPage": {
     "download": "Download Floorp",
-    "downloadAlert": "By downloading Floorp, you agree to the <1>Privacy Policy</1>.",
-    "releaseDate": "Released on: {{date}}",
+    "downloadAlert": "Når du downloader Floorp, accepterer du <1>privatlivspolitikken</1>.",
+    "releaseDate": "Udgivet den: {{date}}",
     "downloadHashes": "Download hashes",
-    "detect": "Detect",
-    "latest": "Latest",
-    "versions": "Versions",
+    "detect": "Opdage",
+    "latest": "Nyeste",
+    "versions": "Versioner",
     "assetsTable": {
-      "fileName": "File name",
-      "fileSize": "File size",
-      "architecture": "Architecture"
+      "fileName": "Filnavn",
+      "fileSize": "Filstørrelse",
+      "architecture": "Arkitektur"
     },
     "daylight": {
       "label": "Download Floorp Daylight",
-      "description": "Floorp Daylight is a beta version of Floorp. It may not work properly.",
-      "alert": "Are you sure you want to download Floorp Daylight? It may not work properly."
+      "description": "Floorp Daylight er en betaversion af Floorp. Det fungerer muligvis ikke korrekt.",
+      "alert": "Er du sikker på, at du vil downloade Floorp Daylight? Det fungerer muligvis ikke korrekt."
     },
-    "noReleaseFound": "No releases found."
+    "noReleaseFound": "Ingen udgivelser fundet."
   },
   "landingPage": {
-    "hero": "Unlimited\nCustomization\n<1>with Floorp</1>",
+    "hero": "Ubegrænset\nTilpasning\n<1>med Floorp</1>",
     "heroCard": {
       "download": "Download Floorp",
-      "sourceCode": "View Source Code"
+      "sourceCode": "Se kildekoden"
     },
-    "feature": "Features",
+    "feature": "Funktioner",
     "features": {
       "privacy": {
-        "title": "Strong Tracking Protection",
-        "description": "By default, Floorp includes a robust tracking blocker, protecting users from a variety of malicious trackers lurking on the web. Additionally, it provides fingerprinting protection."
+        "title": "Stærk sporingsbeskyttelse",
+        "description": "Som standard inkluderer Floorp en robust sporingsblokering, der beskytter brugere mod en række ondsindede sporinger, der lurer på nettet. Derudover giver det fingeraftryksbeskyttelse."
       },
       "flexible": {
-        "title": "Flexible Layout",
-        "description": "Floorp's layout customization is unlimited. Move the tab bar to the bottom of the window, hide the title bar, and more. Create your own Floorp."
+        "title": "Fleksibelt layout",
+        "description": "Floorps layouttilpasning er ubegrænset. Flyt fanelinjen til bunden af ​​vinduet, skjul titellinjen og mere. Lav dit eget Floorp."
       },
       "switchable": {
-        "title": "Customizable Design",
-        "description": "In addition to the usual Firefox theme customization, Floorp allows you to switch between five different interface designs, including OS-specific themes."
+        "title": "Tilpasset design",
+        "description": "Ud over den sædvanlige Firefox-tematilpasning giver Floorp dig mulighed for at skifte mellem fem forskellige interfacedesigns, inklusive OS-specifikke temaer."
       },
       "sidebar": {
-        "title": "Regular Updates",
-        "description": "Floorp is based on Firefox ESR. Floorp will be updated every 4 weeks, with security updates provided before each Firefox release."
+        "title": "Regelmæssige opdateringer",
+        "description": "Floorp er baseret på Firefox ESR. Floorp vil blive opdateret hver 4. uge, med sikkerhedsopdateringer, der leveres før hver Firefox-udgivelse."
       },
       "noTracking": {
-        "title": "No User Tracking",
-        "description": "We don't collect personal information from users. We don't track users. We don't sell user data. We have no affiliation with any advertising companies."
+        "title": "Ingen brugersporing",
+        "description": "Vi indsamler ikke personlig information fra brugere. Vi sporer ikke brugere. Vi sælger ikke brugerdata. Vi har ingen tilknytning til nogen reklamevirksomheder."
       },
       "openSource": {
-        "title": "Powered by Open Source",
-        "description": "Floorp's source code is entirely open, allowing anyone to view it and contribute to the project. Not only is the browser itself open source, but the build environment is as well."
+        "title": "Drevet af Open Source",
+        "description": "Floorps kildekode er helt åben, så alle kan se den og bidrage til projektet. Ikke alene er browseren i sig selv open source, men det er byggemiljøet også."
       }
     },
     "columns": {
       "dualSidebar": {
-        "title": "Dual Sidebar",
-        "description": "Are you not satisfied with just one sidebar? Want to open your website in the sidebar? Floorp features a built-in sidebar that can display a web panel and browser management tools for a comfortable browsing experience.\nA sidebar for busy people! Check everything from bookmarks and history to websites!"
+        "title": "Dobbelt sidebjælke",
+        "description": "Er du ikke tilfreds med kun én sidebjælke? Vil du åbne din hjemmeside i sidebjælken? Floorp har en indbygget sidebjælke, der kan vise et webpanel og browseradministrationsværktøjer for en behagelig browsingoplevelse.\nEn sidebjælke for travle mennesker! Tjek alt fra bogmærker og historie til hjemmesider!"
       },
       "flexibleToolbar": {
-        "title": "Flexible Toolbar & Tab Bar",
-        "description": "Organize your web browsing with Tree Style Tabs! Use them as a vertical tabs, or combine them both for ultimate flexibility. Customize your bookmarks bar and more to create the perfect browsing experience. Floorp empowers everyone to personalize their browser, from beginners to CSS experts. Choose from a variety of themes or craft your own with custom CSS!"
+        "title": "Fleksibel værktøjslinje og fanelinje",
+        "description": "Organiser din web-browsing med Tree Style Tabs! Brug dem som lodrette faner, eller kombiner dem begge for ultimativ fleksibilitet. Tilpas din bogmærkelinje og mere for at skabe den perfekte browseroplevelse. Floorp giver alle mulighed for at tilpasse deres browser, fra begyndere til CSS-eksperter. Vælg mellem en række forskellige temaer eller lav dit eget med tilpasset CSS!"
       },
       "privacyProtection": {
-        "title": "Caring about the User and the Web",
-        "description": "Floorp does not track users and only blocks malicious tracking on websites. With Floorp you can build an internet that benefits both websites and users.\nBlocking only harmful trackers by listening to the opinions of both website owners who make a living from advertising and users who want to protect their privacy, why not use Floorp in finding a better internet?"
+        "title": "Bekymrer sig om brugeren og nettet",
+        "description": "Floorp sporer ikke brugere og blokerer kun for ondsindet sporing på hjemmesider. Med Floorp kan du bygge et internet, der gavner både hjemmesider og brugere.\nBlokerer kun skadelige sporinger ved at lytte til meninger fra både hjemmesidesejere, der lever af reklamer, og brugere, der ønsker at beskytte deres privatliv, hvorfor så ikke bruge Floorp til at finde et bedre internet?"
       }
     },
-    "latestArticle": "Latest articles",
+    "latestArticle": "Seneste artikler",
     "article": {
-      "readMore": "Read more"
+      "readMore": "Læs mere"
     },
-    "downloadFloorp": "Get the latest version of Floorp browser"
+    "downloadFloorp": "Hent den nyeste version af Floorp browser"
   }
 }
