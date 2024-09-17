@@ -1,91 +1,91 @@
 {
   "components": {
-    "languageSelect": "Língua",
-    "inReview": "Em revisão",
-    "waitingForContributions": "Esperando por revisão",
-    "starUs": "Estrele-nos no GitHub",
-    "loading": "Carregando",
+    "languageSelect": "Language",
+    "inReview": "In Review",
+    "waitingForContributions": "Waiting for review",
+    "starUs": "Star Us on GitHub",
+    "loading": "Loading",
     "header": {
       "links": {
         "download": "Download",
-        "changelog": "Lista de alterações",
+        "changelog": "Changelog",
         "discord": "Discord",
         "github": "GitHub"
       }
     },
     "alerts": {
-      "warning": "Alerta",
-      "error": "Erro",
-      "success": "Sucesso",
-      "info": "Informação",
-      "dyk": "Você sabia?"
+      "warning": "Warning",
+      "error": "Error",
+      "success": "Success",
+      "info": "Info",
+      "dyk": "Did you know?"
     }
   },
   "common": {
-    "title": "Navegador Floorp",
-    "description": "Floorp é um novo navegador do Japão baseado no Firefox com excelente privacidade e flexibilidade."
+    "title": "Floorp Browser",
+    "description": "Floorp is a new Firefox based browser from Japan with excellent privacy & flexibility."
   },
   "downloadPage": {
-    "download": "Baixar Floorp",
-    "downloadAlert": "Ao baixar Floorp, você concorda com a <1>Política de Privacidade</1>.",
-    "releaseDate": "Lançado em: {{date}}",
-    "downloadHashes": "Baixar hashes",
-    "detect": "Detectar",
-    "latest": "Mais recente",
-    "versions": "Versões",
+    "download": "Download Floorp",
+    "downloadAlert": "By downloading Floorp, you agree to the <1>Privacy Policy</1>.",
+    "releaseDate": "Released on: {{date}}",
+    "downloadHashes": "Download hashes",
+    "detect": "Detect",
+    "latest": "Latest",
+    "versions": "Versions",
     "assetsTable": {
-      "fileName": "Nome do arquivo",
-      "fileSize": "Tamanho do arquivo",
-      "architecture": "Arquitetura"
+      "fileName": "File name",
+      "fileSize": "File size",
+      "architecture": "Architecture"
     },
     "daylight": {
-      "label": "Baixar Floorp Daylight",
-      "description": "Floorp Daylight é uma versão beta do Floorp. Ela pode não funcionar corretamente.",
-      "alert": "Você tem certeza que quer baixar Floorp Daylight? Ele pode não funcionar corretamente."
+      "label": "Download Floorp Daylight",
+      "description": "Floorp Daylight is a beta version of Floorp. It may not work properly.",
+      "alert": "Are you sure you want to download Floorp Daylight? It may not work properly."
     },
-    "noReleaseFound": "Nenhum lançamento encontrado."
+    "noReleaseFound": "No releases found."
   },
   "landingPage": {
-    "hero": "Customização\nIlimitada\n<1>com Floorp</1>",
+    "hero": "Unlimited\nCustomization\n<1>with Floorp</1>",
     "heroCard": {
-      "download": "Baixar Floorp",
-      "sourceCode": "Ver código-fonte"
+      "download": "Download Floorp",
+      "sourceCode": "View Source Code"
     },
-    "feature": "Características",
+    "feature": "Features",
     "features": {
       "privacy": {
-        "title": "Forte proteção contra rastreamento",
-        "description": "Por padrão, Floorp inclui um robusto bloqueador de rastreamento, protegendo usuários de uma variedade de rastreadores maliciosos à espreita na web. Além disso, ele possui proteção contra fingerprint."
+        "title": "Strong Tracking Protection",
+        "description": "By default, Floorp includes a robust tracking blocker, protecting users from a variety of malicious trackers lurking on the web. Additionally, it provides fingerprinting protection."
       },
       "flexible": {
-        "title": "Layout flexível",
-        "description": "A customização do layout do Floorp é ilimitada. Mova a barra de abas para o rodapé da janela, esconda a barra de título, e mais. Crie seu próprio Floorp."
+        "title": "Flexible Layout",
+        "description": "Floorp's layout customization is unlimited. Move the tab bar to the bottom of the window, hide the title bar, and more. Create your own Floorp."
       },
       "switchable": {
-        "title": "Design customizável",
-        "description": "Além da customização padrão do Firefox, Floorp permite que você mude entre cinco diferentes designs de interface, incluindo temas específicos do SO."
+        "title": "Customizable Design",
+        "description": "In addition to the usual Firefox theme customization, Floorp allows you to switch between five different interface designs, including OS-specific themes."
       },
       "sidebar": {
-        "title": "Atualizações regulares",
-        "description": "Floorp é baseado no Firefox ESR. Floorp será atualizado a cada 4 semanas, com atualizações de segurança fornecidas antes de cada lançamento do Firefox."
+        "title": "Regular Updates",
+        "description": "Floorp is based on Firefox ESR. Floorp will be updated every 4 weeks, with security updates provided before each Firefox release."
       },
       "noTracking": {
-        "title": "Sem rastreamento de usuário",
-        "description": "Nós não coletamos informações pessoais dos usuários. Nós não rastreamos usuários. Nós não vendemos dados de usuários. Nós não somos afiliados a nenhuma empresa de propaganda."
+        "title": "No User Tracking",
+        "description": "We don't collect personal information from users. We don't track users. We don't sell user data. We have no affiliation with any advertising companies."
       },
       "openSource": {
-        "title": "Empoderado por Código Aberto",
-        "description": "O código-fonte do Floorp é inteiramente aberto, permitindo que qualquer um visualize e contribua com o projeto. Não somente o próprio navegador é código-aberto, mas o ambiente de compilação também é."
+        "title": "Powered by Open Source",
+        "description": "Floorp's source code is entirely open, allowing anyone to view it and contribute to the project. Not only is the browser itself open source, but the build environment is as well."
       }
     },
     "columns": {
       "dualSidebar": {
-        "title": "Barra lateral dupla",
-        "description": "Você não está satisfeito apenas com uma barra lateral? Quer abrir seu site na barra lateral? Floorp inclui uma barra lateral que pode exibir um painel web e ferramentas de gerenciamento do navegador para uma experiência de navegação confortávle.\nUma barra lateral para pessoas ocupadas! Confira tudo desde favoritos e histórico até websites!"
+        "title": "Dual Sidebar",
+        "description": "Are you not satisfied with just one sidebar? Want to open your website in the sidebar? Floorp features a built-in sidebar that can display a web panel and browser management tools for a comfortable browsing experience.\nA sidebar for busy people! Check everything from bookmarks and history to websites!"
       },
       "flexibleToolbar": {
-        "title": "Barras de ferramentas e de abas flexíveis",
-        "description": "Organize sua navegação da web com Abas Estilo Árvore! Use-as como abas verticais, ou combine ambas para uma flexibilidade inigualável. Customize sua barra de favoritos e mais para criar a experiência de navegação perfeita. Floorp empodera todos para personalizar seus navegadores, de iniciantes até experts em CSS. Escolha de uma variedade de temas ou crie seu próprio com CSS customizada!"
+        "title": "Flexible Toolbar & Tab Bar",
+        "description": "Organize your web browsing with Tree Style Tabs! Use them as a vertical tabs, or combine them both for ultimate flexibility. Customize your bookmarks bar and more to create the perfect browsing experience. Floorp empowers everyone to personalize their browser, from beginners to CSS experts. Choose from a variety of themes or craft your own with custom CSS!"
       },
       "privacyProtection": {
         "title": "Caring about the User and the Web",
