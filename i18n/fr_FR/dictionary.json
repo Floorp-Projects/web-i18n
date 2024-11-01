@@ -1,0 +1,101 @@
+{
+  "components": {
+    "languageSelect": "Langue",
+    "inReview": "En révision",
+    "waitingForContributions": "En attente de révision",
+    "starUs": "Mettez-nous une étoile sur GitHub",
+    "loading": "Chargement",
+    "header": {
+      "links": {
+        "download": "Télécharger",
+        "changelog": "Journal des modifications",
+        "discord": "Discord",
+        "github": "GitHub"
+      }
+    },
+    "alerts": {
+      "warning": "Attention",
+      "error": "Erreur",
+      "success": "Succès",
+      "info": "Information",
+      "dyk": "Le saviez-vous ?"
+    }
+  },
+  "common": {
+    "title": "Navigateur Floorp",
+    "description": "Floorp est un nouveau navigateur internet basé sur Firefox venant du Japon avec un excellent respect de la vie privée et flexibilité."
+  },
+  "downloadPage": {
+    "download": "Télécharger Floorp",
+    "downloadAlert": "En téléchargeant Floorp, vous acceptez la <1>Politique de Confidentialité</1>.",
+    "releaseDate": "Sortie le : {{date}}",
+    "downloadHashes": "Télécharger les hashes",
+    "detect": "Détection",
+    "latest": "Dernière version",
+    "versions": "Versions",
+    "assetsTable": {
+      "fileName": "Nom du fichier",
+      "fileSize": "Taille du fichier",
+      "architecture": "Architecture"
+    },
+    "daylight": {
+      "label": "Télécharger Floorp Daylight",
+      "description": "Floorp Daylight est la version bêta de Floorp. Il peut ne pas fonctionner correctement.",
+      "alert": "Êtes-vous sûr de vouloir télécharger Floorp Daylight ? Il se peut qu'il ne fonctionne pas correctement."
+    },
+    "noReleaseFound": "Aucunes sorties trouvées."
+  },
+  "landingPage": {
+    "hero": "Personnalisation\nIllimité\n<1>avec Floorp</1>",
+    "heroCard": {
+      "download": "Télécharger Floorp",
+      "sourceCode": "Consulter le code source"
+    },
+    "feature": "Fonctionnalités",
+    "features": {
+      "privacy": {
+        "title": "Protection renforcée contre le pistage",
+        "description": "Par défaut, Floorp inclut un bloqueur de suivi robuste, protégeant les utilisateurs d'une variété de traceurs malveillants qui se cachent sur Internet. En outre, il fournit une protection des empreintes numériques."
+      },
+      "flexible": {
+        "title": "Mise en page flexible",
+        "description": "La personnalisation de la mise en page de Floorp est illimitée. Déplacez la barre d'onglets vers le bas de la fenêtre, cachez la barre de titre, et plus encore. Créez votre propre Floorp."
+      },
+      "switchable": {
+        "title": "Une apparence modifiable",
+        "description": "En plus de la personnalisation habituelle de Firefox, Floorp vous permet de basculer entre cinq designs d'interface différents, y compris des thèmes spécifiques au système d'exploitation."
+      },
+      "sidebar": {
+        "title": "Mises à jour régulières",
+        "description": "Floorp est basé sur Firefox ESR. Il sera mis à jour toutes les quatre semaines, avec des mises à jour de sécurité proposées avant chaque nouvelle version de Firefox."
+      },
+      "noTracking": {
+        "title": "Aucun suivi des utilisateurs",
+        "description": "Nous ne collectons pas les informations personnelles des utilisateurs. Nous ne surveillons pas les utilisateurs. Nous ne vendons pas les données des utilisateurs. Nous n'avons aucune affiliation avec des sociétés de publicité."
+      },
+      "openSource": {
+        "title": "Alimenté par un code source ouvert",
+        "description": "Le code source de Floorp est intégralement ouvert, ce qui permet à quiconque de le consulter et de contribuer au projet. Ainsi, non seulement le navigateur lui-même est open source, mais l'environnement de développement l'est également."
+      }
+    },
+    "columns": {
+      "dualSidebar": {
+        "title": "Double barres latérales",
+        "description": "Vous n'êtes pas satisfait par une simple barre latérale ? Vous voulez ouvrir votre site internet dedans ? Floorp intègre une barre latérale qui peut afficher une page internet et des outils de gestion pour navigateur afin d'avoir une expérience de navigation confortable.\nParfait pour les personnes occupées ! Vérifiez tout, des marques-page à l'historique en passant par les sites internet !"
+      },
+      "flexibleToolbar": {
+        "title": "Barre d'outil et d'onglets flexibles",
+        "description": "Organisez votre navigation internet avec Tree Style Tabs ! Utilisez-les comme des onglets verticaux ou combinez-les pour une flexibilité optimale. Personnalisez votre barre de marque-pages et plus encore pour créer une expérience de navigation parfaite. Floorp permet à chacun de personnaliser son navigateur, des débutants aux experts CSS. Choisissez parmi une variété de thèmes ou créez le vôtre personnalisé !"
+      },
+      "privacyProtection": {
+        "title": "Se préoccuper de l'utilisateur et du web",
+        "description": "Floorp ne suit pas les utilisateurs et bloque uniquement les traceurs malveillants sur les sites internet. Avec Floorp, vous pouvez construire un internet qui profite à la fois aux sites web et aux utilisateurs.\nEn bloquant seulement les traceurs malveillants et en écoutant les opinions des propriétaires de sites web qui vivent de la publicité et des utilisateurs qui veulent protéger leur vie privée, pourquoi ne pas utiliser Floorp pour trouver un meilleur internet ?"
+      }
+    },
+    "latestArticle": "Derniers articles",
+    "article": {
+      "readMore": "Lire plus"
+    },
+    "downloadFloorp": "Obtenir la dernière version de Floorp"
+  }
+}
