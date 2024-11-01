@@ -1,13 +1,13 @@
 {
   "components": {
-    "languageSelect": "Language",
+    "languageSelect": "语言",
     "inReview": "In Review",
     "waitingForContributions": "Waiting for review",
     "starUs": "Star Us on GitHub",
-    "loading": "Loading",
+    "loading": "加载中",
     "header": {
       "links": {
-        "download": "Download",
+        "download": "下载",
         "changelog": "Changelog",
         "discord": "Discord",
         "github": "GitHub"
@@ -15,26 +15,26 @@
     },
     "alerts": {
       "warning": "Warning",
-      "error": "Error",
-      "success": "Success",
-      "info": "Info",
-      "dyk": "Did you know?"
+      "error": "错误",
+      "success": "成功",
+      "info": "信息",
+      "dyk": "你知道吗？"
     }
   },
   "common": {
-    "title": "Floorp Browser",
-    "description": "Floorp is a new Firefox based browser from Japan with excellent privacy & flexibility."
+    "title": "Floorp 浏览器",
+    "description": "Floorp 是一款来自日本，基于 Firefox 的新浏览器，具有极佳的私密性和灵活性。"
   },
   "downloadPage": {
-    "download": "Download Floorp",
-    "downloadAlert": "By downloading Floorp, you agree to the <1>Privacy Policy</1>.",
+    "download": "下载 Floorp",
+    "downloadAlert": "在下载 Floorp 之前，你需要同意 <1>隐私政策</1>。",
     "releaseDate": "Released on: {{date}}",
     "downloadHashes": "Download hashes",
     "detect": "Detect",
     "latest": "Latest",
-    "versions": "Versions",
+    "versions": "版本",
     "assetsTable": {
-      "fileName": "File name",
+      "fileName": "文件名称",
       "fileSize": "File size",
       "architecture": "Architecture"
     },
@@ -48,13 +48,13 @@
   "landingPage": {
     "hero": "Unlimited\nCustomization\n<1>with Floorp</1>",
     "heroCard": {
-      "download": "Download Floorp",
-      "sourceCode": "View Source Code"
+      "download": "下载 Floorp",
+      "sourceCode": "查看源代码"
     },
     "feature": "Features",
     "features": {
       "privacy": {
-        "title": "Strong Tracking Protection",
+        "title": "",
         "description": "By default, Floorp includes a robust tracking blocker, protecting users from a variety of malicious trackers lurking on the web. Additionally, it provides fingerprinting protection."
       },
       "flexible": {
@@ -94,8 +94,8 @@
     },
     "latestArticle": "Latest articles",
     "article": {
-      "readMore": "Read more"
+      "readMore": "了解更多"
     },
-    "downloadFloorp": "Get the latest version of Floorp browser"
+    "downloadFloorp": "下载最新版本的 Floorp 浏览器"
   }
 }
