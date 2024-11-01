@@ -1,20 +1,20 @@
 {
   "components": {
     "languageSelect": "语言",
-    "inReview": "In Review",
-    "waitingForContributions": "Waiting for review",
+    "inReview": "审核中",
+    "waitingForContributions": "等待审核",
     "starUs": "Star Us on GitHub",
     "loading": "加载中",
     "header": {
       "links": {
         "download": "下载",
-        "changelog": "Changelog",
+        "changelog": "更新日志",
         "discord": "Discord",
         "github": "GitHub"
       }
     },
     "alerts": {
-      "warning": "Warning",
+      "warning": "警告",
       "error": "错误",
       "success": "成功",
       "info": "信息",
@@ -28,37 +28,37 @@
   "downloadPage": {
     "download": "下载 Floorp",
     "downloadAlert": "在下载 Floorp 之前，你需要同意 <1>隐私政策</1>。",
-    "releaseDate": "Released on: {{date}}",
-    "downloadHashes": "Download hashes",
-    "detect": "Detect",
-    "latest": "Latest",
+    "releaseDate": "发布日期： {{date}}",
+    "downloadHashes": "哈希值",
+    "detect": "识别平台",
+    "latest": "最新",
     "versions": "版本",
     "assetsTable": {
       "fileName": "文件名称",
-      "fileSize": "File size",
-      "architecture": "Architecture"
+      "fileSize": "文件大小",
+      "architecture": "架构"
     },
     "daylight": {
-      "label": "Download Floorp Daylight",
-      "description": "Floorp Daylight is a beta version of Floorp. It may not work properly.",
-      "alert": "Are you sure you want to download Floorp Daylight? It may not work properly."
+      "label": "下载 Florp Daylight",
+      "description": "Floorp Daylight 是 Floorp 的测试版，它可能无法正常工作。",
+      "alert": "您确定要下载 Floorp Daylight？它可能无法正常工作。"
     },
-    "noReleaseFound": "No releases found."
+    "noReleaseFound": "未找到发行版本。"
   },
   "landingPage": {
-    "hero": "Unlimited\nCustomization\n<1>with Floorp</1>",
+    "hero": "无限\n可定制\n<1>Floorp</1>",
     "heroCard": {
       "download": "下载 Floorp",
       "sourceCode": "查看源代码"
     },
-    "feature": "Features",
+    "feature": "特性",
     "features": {
       "privacy": {
         "title": "",
-        "description": "By default, Floorp includes a robust tracking blocker, protecting users from a variety of malicious trackers lurking on the web. Additionally, it provides fingerprinting protection."
+        "description": "Floorp 默认内置一个强大的跟踪拦截器，保护用户免受潜伏在网络上的各种恶意跟踪器的跟踪。同时，它还提供指纹识别保护。"
       },
       "flexible": {
-        "title": "Flexible Layout",
+        "title": "灵活布局",
         "description": "Floorp's layout customization is unlimited. Move the tab bar to the bottom of the window, hide the title bar, and more. Create your own Floorp."
       },
       "switchable": {
@@ -70,8 +70,8 @@
         "description": "Floorp is based on Firefox ESR. Floorp will be updated every 4 weeks, with security updates provided before each Firefox release."
       },
       "noTracking": {
-        "title": "No User Tracking",
-        "description": "We don't collect personal information from users. We don't track users. We don't sell user data. We have no affiliation with any advertising companies."
+        "title": "无用户跟踪",
+        "description": "我们不会收集用户的个人信息。我们不跟踪用户数据，也不出售用户数据。我们与任何广告公司均无隶属关系。"
       },
       "openSource": {
         "title": "Powered by Open Source",
@@ -81,21 +81,21 @@
     "columns": {
       "dualSidebar": {
         "title": "Dual Sidebar",
-        "description": "Are you not satisfied with just one sidebar? Want to open your website in the sidebar? Floorp features a built-in sidebar that can display a web panel and browser management tools for a comfortable browsing experience.\nA sidebar for busy people! Check everything from bookmarks and history to websites!"
+        "description": "您是否满足于只有一个侧边栏？想要在侧边栏打开你的网站？Floorp 内置的侧边栏可以显示网页和浏览器管理工具，为你带来舒适的浏览体验。\n为你重新设计的侧边栏！可以从书签、历史记录查看你想要查看的内容！"
       },
       "flexibleToolbar": {
-        "title": "Flexible Toolbar & Tab Bar",
+        "title": "灵活的工具栏和选项卡栏",
         "description": "Organize your web browsing with Tree Style Tabs! Use them as a vertical tabs, or combine them both for ultimate flexibility. Customize your bookmarks bar and more to create the perfect browsing experience. Floorp empowers everyone to personalize their browser, from beginners to CSS experts. Choose from a variety of themes or craft your own with custom CSS!"
       },
       "privacyProtection": {
         "title": "Caring about the User and the Web",
-        "description": "Floorp does not track users and only blocks malicious tracking on websites. With Floorp you can build an internet that benefits both websites and users.\nBlocking only harmful trackers by listening to the opinions of both website owners who make a living from advertising and users who want to protect their privacy, why not use Floorp in finding a better internet?"
+        "description": "Floorp 不跟踪用户，只阻止网站的恶意跟踪。Floorp 是网站和用户之间的坚强壁垒。\n人人都希望保护自己的隐私，所以 Floorp 只拦截通过大数据定向投放广告为生的网站跟踪器，为什么不使用 Floorp 来保护你的隐私呢？"
       }
     },
-    "latestArticle": "Latest articles",
+    "latestArticle": "最新文章",
     "article": {
       "readMore": "了解更多"
     },
-    "downloadFloorp": "下载最新版本的 Floorp 浏览器"
+    "downloadFloorp": "下载最新的 Floorp 浏览器"
   }
 }
