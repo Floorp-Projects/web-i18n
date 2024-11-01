@@ -1,0 +1,101 @@
+{
+  "components": {
+    "languageSelect": "語言",
+    "inReview": "審查中",
+    "waitingForContributions": "等待審查",
+    "starUs": "在 GitHub 上給我們加星標",
+    "loading": "載入中",
+    "header": {
+      "links": {
+        "download": "下載",
+        "changelog": "變更日誌",
+        "discord": "Discord",
+        "github": "GitHub"
+      }
+    },
+    "alerts": {
+      "warning": "警告",
+      "error": "錯誤",
+      "success": "成功",
+      "info": "資訊",
+      "dyk": "您知道嗎？"
+    }
+  },
+  "common": {
+    "title": "Floorp 瀏覽器",
+    "description": "Floorp 是一款來自日本的基於 Firefox 的新型瀏覽器，具有出色的隱私性和靈活性。"
+  },
+  "downloadPage": {
+    "download": "下載 Floorp",
+    "downloadAlert": "下載 Floorp 即表示您同意<1>隱私權政策</1>。",
+    "releaseDate": "發布日期： {{date}}",
+    "downloadHashes": "哈希值",
+    "detect": "識別",
+    "latest": "最新",
+    "versions": "版本",
+    "assetsTable": {
+      "fileName": "文件名稱",
+      "fileSize": "文件大小",
+      "architecture": "架構"
+    },
+    "daylight": {
+      "label": "下載 Florp Daylight",
+      "description": "Floorp Daylight 是 Floorp 的測試版，它可能無法正常工作。",
+      "alert": "您確定要下載 Floorp Daylight ？它可能無法正常工作。"
+    },
+    "noReleaseFound": "未找到任何版本。"
+  },
+  "landingPage": {
+    "hero": "無限\n客製化的\n<1>Floorp</1>",
+    "heroCard": {
+      "download": "下載 Floorp",
+      "sourceCode": "查看原始代碼"
+    },
+    "feature": "特性",
+    "features": {
+      "privacy": {
+        "title": "強大的跟蹤保護",
+        "description": "Floorp 默認內置一個強大的跟蹤攔截器，保護用戶免受潛伏在網絡上的各種惡意跟蹤器的跟蹤。同時，它還提供指紋識別保護。"
+      },
+      "flexible": {
+        "title": "靈活布局",
+        "description": "Floorp 可以無限自定義布局。您可以將標簽欄移到窗口底部，隱藏標題欄，等等……您可以創建一個獨一無二的 Floorp。"
+      },
+      "switchable": {
+        "title": "可客製設計",
+        "description": "除了 Firefox 默認主題，您也可以在五種不同的主題之間切換，包括操作系統特定主題。"
+      },
+      "sidebar": {
+        "title": "定期更新",
+        "description": "Floorp 基於 Firefox ESR 構建。 我們提供 4 周一次的更新頻率，並在 Firefox 發布新版本前提供安全更新。"
+      },
+      "noTracking": {
+        "title": "無用戶跟蹤",
+        "description": "我們不會收集用戶的個人資訊。我們不跟蹤用戶，更不出售用戶資料。我們與任何廣告公司沒有任何隸屬關係。"
+      },
+      "openSource": {
+        "title": "完全開源",
+        "description": "Floorp 的原始代碼是完全開放的，任何人都可以閱覽並為項目做出貢獻。不僅瀏覽器本身的原始代碼是開源的，甚至連構建環境也是開源的。"
+      }
+    },
+    "columns": {
+      "dualSidebar": {
+        "title": "雙側邊欄",
+        "description": "您是否滿足於只有一個側邊欄？想要在側邊欄打開妳的網站？Floorp 內置的雙側邊欄可以顯示網頁和瀏覽器管理工具，為妳帶來舒適的瀏覽體驗。\n為您重新設計的側邊欄！可以從書簽、歷史記錄查看妳想要查看的內容！"
+      },
+      "flexibleToolbar": {
+        "title": "靈活的工具欄和選項卡欄",
+        "description": "使用樹形標簽來規劃妳瀏覽的網頁！將它們垂直排列，或將兩者結合使用，以獲得最大的靈活性。自定義書簽欄等，打造完美的瀏覽體驗。從小白到 CSS 專家，Floorp 讓每個人都能個性化自己的瀏覽器。同時，您可以從各種主題中進行選擇，也可以使用自定義 CSS 制作自己的主題！"
+      },
+      "privacyProtection": {
+        "title": "關心用戶和網站",
+        "description": "Floorp 不會追蹤用戶，只阻止網站的惡意跟蹤。透過 Floorp，您可以建立一個對網站和使用者都有利的互聯網。\n我們聽取了以廣告為生的網站運營商和希望保護隱私的用戶的意見，只阻止有害的追蹤器。 使用 Floorp，為了更好的互聯網。"
+      }
+    },
+    "latestArticle": "最新文章",
+    "article": {
+      "readMore": "了解更多"
+    },
+    "downloadFloorp": "獲取最新版本的Florp瀏覽器"
+  }
+}
