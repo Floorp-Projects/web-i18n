@@ -17,7 +17,7 @@
       "warning": "警告",
       "error": "错误",
       "success": "成功",
-      "info": "信息",
+      "info": "提示",
       "dyk": "您知道吗？"
     }
   },
@@ -27,7 +27,7 @@
   },
   "downloadPage": {
     "download": "下载 Floorp",
-    "downloadAlert": "在下载 Floorp 之前，您需要同意 <1>隐私政策</1>。",
+    "downloadAlert": "下载 Floorp 表示您同意<1>隐私政策</1>。",
     "releaseDate": "发布日期： {{date}}",
     "downloadHashes": "哈希值",
     "detect": "识别",
