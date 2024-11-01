@@ -1,101 +1,101 @@
 {
   "components": {
-    "languageSelect": "语言",
-    "inReview": "审核中",
-    "waitingForContributions": "等待审核",
-    "starUs": "在 GitHub 上给我们加星标",
-    "loading": "加载中",
+    "languageSelect": "語言",
+    "inReview": "審查中",
+    "waitingForContributions": "等待審查",
+    "starUs": "在 GitHub 上給我們加星標",
+    "loading": "載入中",
     "header": {
       "links": {
-        "download": "下载",
-        "changelog": "更新日志",
+        "download": "下載",
+        "changelog": "變更日誌",
         "discord": "Discord",
         "github": "GitHub"
       }
     },
     "alerts": {
       "warning": "警告",
-      "error": "错误",
+      "error": "錯誤",
       "success": "成功",
-      "info": "提示",
-      "dyk": "您知道吗？"
+      "info": "資訊",
+      "dyk": "您知道嗎？"
     }
   },
   "common": {
-    "title": "Floorp 浏览器",
-    "description": "Floorp 是一款来自日本，基于 Firefox 的浏览器，具有极佳的私密性和灵活性。"
+    "title": "Floorp 瀏覽器",
+    "description": "Floorp 是一款來自日本的基於 Firefox 的新型瀏覽器，具有出色的隱私性和靈活性。"
   },
   "downloadPage": {
-    "download": "下载 Floorp",
-    "downloadAlert": "下载 Floorp 表示您同意<1>隐私政策</1>。",
-    "releaseDate": "发布日期： {{date}}",
+    "download": "下載 Floorp",
+    "downloadAlert": "下載 Floorp 即表示您同意<1>隱私權政策</1>。",
+    "releaseDate": "發布日期： {{date}}",
     "downloadHashes": "哈希值",
-    "detect": "识别",
+    "detect": "識別",
     "latest": "最新",
     "versions": "版本",
     "assetsTable": {
-      "fileName": "文件名称",
+      "fileName": "文件名稱",
       "fileSize": "文件大小",
-      "architecture": "架构"
+      "architecture": "架構"
     },
     "daylight": {
-      "label": "下载 Florp Daylight",
-      "description": "Floorp Daylight 是 Floorp 的测试版，它可能无法正常工作。",
-      "alert": "您确定要下载 Floorp Daylight ？它可能无法正常工作。"
+      "label": "下載 Florp Daylight",
+      "description": "Floorp Daylight 是 Floorp 的測試版，它可能無法正常工作。",
+      "alert": "您確定要下載 Floorp Daylight ？它可能無法正常工作。"
     },
-    "noReleaseFound": "未找到发行版本。"
+    "noReleaseFound": "未找到任何版本。"
   },
   "landingPage": {
-    "hero": "无限\n可定制的\n<1>Floorp</1>",
+    "hero": "無限\n客製化的\n<1>Floorp</1>",
     "heroCard": {
-      "download": "下载 Floorp",
-      "sourceCode": "查看源代码"
+      "download": "下載 Floorp",
+      "sourceCode": "查看原始代碼"
     },
     "feature": "特性",
     "features": {
       "privacy": {
-        "title": "强大的跟踪保护",
-        "description": "Floorp 默认内置一个强大的跟踪拦截器，保护用户免受潜伏在网络上的各种恶意跟踪器的跟踪。同时，它还提供指纹识别保护。"
+        "title": "強大的跟蹤保護",
+        "description": "Floorp 默認內置一個強大的跟蹤攔截器，保護用戶免受潛伏在網絡上的各種惡意跟蹤器的跟蹤。同時，它還提供指紋識別保護。"
       },
       "flexible": {
-        "title": "灵活布局",
-        "description": "Floorp 可以无限自定义布局。您可以将标签栏移到窗口底部，隐藏标题栏，等等……您可以创建一个独一无二的 Floorp。"
+        "title": "靈活布局",
+        "description": "Floorp 可以無限自定義布局。您可以將標簽欄移到窗口底部，隱藏標題欄，等等……您可以創建一個獨一無二的 Floorp。"
       },
       "switchable": {
-        "title": "可定制界面",
-        "description": "除了 Firefox 默认皮肤，您也可以在五种不同的皮肤之间切换，包括操作系统特定皮肤。"
+        "title": "可客製設計",
+        "description": "除了 Firefox 默認主題，您也可以在五種不同的主題之間切換，包括操作系統特定主題。"
       },
       "sidebar": {
         "title": "定期更新",
-        "description": "Floorp 基于 Firefox ESR 构建。 我们提供 4 周一次的更新频率，并在 Firefox 发布新版本前提供安全更新。"
+        "description": "Floorp 基於 Firefox ESR 構建。 我們提供 4 周一次的更新頻率，並在 Firefox 發布新版本前提供安全更新。"
       },
       "noTracking": {
-        "title": "无用户跟踪",
-        "description": "我们不会收集用户的个人信息。我们不跟踪用户数据，也不出售用户数据。我们与任何广告公司均无隶属关系。"
+        "title": "無用戶跟蹤",
+        "description": "我們不會收集用戶的個人資訊。我們不跟蹤用戶，更不出售用戶資料。我們與任何廣告公司沒有任何隸屬關係。"
       },
       "openSource": {
-        "title": "完全开源",
-        "description": "Floorp 的源代码是完全开放的，任何人都可以浏览并为项目做出贡献。不仅浏览器本身的源代码是开源的，甚至连构建环境也是开源的。"
+        "title": "完全開源",
+        "description": "Floorp 的原始代碼是完全開放的，任何人都可以閱覽並為項目做出貢獻。不僅瀏覽器本身的原始代碼是開源的，甚至連構建環境也是開源的。"
       }
     },
     "columns": {
       "dualSidebar": {
-        "title": "双侧边栏",
-        "description": "您是否满足于只有一个侧边栏？想要在侧边栏打开你的网站？Floorp 内置的双侧边栏可以显示网页和浏览器管理工具，为你带来舒适的浏览体验。\n为您重新设计的侧边栏！可以从书签、历史记录查看你想要查看的内容！"
+        "title": "雙側邊欄",
+        "description": "您是否滿足於只有一個側邊欄？想要在側邊欄打開妳的網站？Floorp 內置的雙側邊欄可以顯示網頁和瀏覽器管理工具，為妳帶來舒適的瀏覽體驗。\n為您重新設計的側邊欄！可以從書簽、歷史記錄查看妳想要查看的內容！"
       },
       "flexibleToolbar": {
-        "title": "灵活的工具栏和选项卡栏",
-        "description": "使用树形标签来规划你浏览的网页！将它们垂直排列，或将两者结合使用，以获得最大的灵活性。自定义书签栏等，打造完美的浏览体验。从小白到 CSS 专家，Floorp 让每个人都能个性化自己的浏览器。同时，您可以从各种主题中进行选择，也可以使用自定义 CSS 制作自己的主题！"
+        "title": "靈活的工具欄和選項卡欄",
+        "description": "使用樹形標簽來規劃妳瀏覽的網頁！將它們垂直排列，或將兩者結合使用，以獲得最大的靈活性。自定義書簽欄等，打造完美的瀏覽體驗。從小白到 CSS 專家，Floorp 讓每個人都能個性化自己的瀏覽器。同時，您可以從各種主題中進行選擇，也可以使用自定義 CSS 制作自己的主題！"
       },
       "privacyProtection": {
-        "title": "关心用户和网站",
-        "description": "Floorp 不跟踪用户，只阻止网站的恶意跟踪。Floorp 是网站和用户之间的坚强壁垒。\n我们听取了以广告为生的网站运营商和希望保护隐私的用户的意见，只拦截有害的跟踪器。 使用 Floorp，为了更好的互联网。"
+        "title": "關心用戶和網站",
+        "description": "Floorp 不會追蹤用戶，只阻止網站的惡意跟蹤。透過 Floorp，您可以建立一個對網站和使用者都有利的互聯網。\n我們聽取了以廣告為生的網站運營商和希望保護隱私的用戶的意見，只阻止有害的追蹤器。 使用 Floorp，為了更好的互聯網。"
       }
     },
     "latestArticle": "最新文章",
     "article": {
       "readMore": "了解更多"
     },
-    "downloadFloorp": "下载最新的 Floorp 浏览器"
+    "downloadFloorp": "獲取最新版本的Florp瀏覽器"
   }
 }
