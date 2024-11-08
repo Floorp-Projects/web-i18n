@@ -1,32 +1,32 @@
 {
   "components": {
-    "languageSelect": "Language",
+    "languageSelect": "언어",
     "inReview": "In Review",
     "waitingForContributions": "Waiting for review",
     "starUs": "Star Us on GitHub",
     "loading": "Loading",
     "header": {
       "links": {
-        "download": "Download",
+        "download": "다운로드",
         "changelog": "Changelog",
         "discord": "Discord",
         "github": "GitHub"
       }
     },
     "alerts": {
-      "warning": "Warning",
-      "error": "Error",
-      "success": "Success",
-      "info": "Info",
+      "warning": "경고",
+      "error": "오류",
+      "success": "성공",
+      "info": "정보",
       "dyk": "Did you know?"
     }
   },
   "common": {
-    "title": "Floorp Browser",
+    "title": "Floorp 브라우저",
     "description": "Floorp is a new Firefox based browser from Japan with excellent privacy & flexibility."
   },
   "downloadPage": {
-    "download": "Download Floorp",
+    "download": "Floorp 다운로드",
     "downloadAlert": "By downloading Floorp, you agree to the <1>Privacy Policy</1>.",
     "releaseDate": "Released on: {{date}}",
     "downloadHashes": "Download hashes",
@@ -80,7 +80,7 @@
     },
     "columns": {
       "dualSidebar": {
-        "title": "Dual Sidebar",
+        "title": "듀얼 사이드바",
         "description": "Are you not satisfied with just one sidebar? Want to open your website in the sidebar? Floorp features a built-in sidebar that can display a web panel and browser management tools for a comfortable browsing experience.\nA sidebar for busy people! Check everything from bookmarks and history to websites!"
       },
       "flexibleToolbar": {
@@ -94,7 +94,7 @@
     },
     "latestArticle": "Latest articles",
     "article": {
-      "readMore": "Read more"
+      "readMore": "더 읽기"
     },
     "downloadFloorp": "Get the latest version of Floorp browser"
   }
