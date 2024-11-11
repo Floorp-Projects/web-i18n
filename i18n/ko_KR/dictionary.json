@@ -1,14 +1,14 @@
 {
   "components": {
     "languageSelect": "언어",
-    "inReview": "In Review",
-    "waitingForContributions": "Waiting for review",
-    "starUs": "Star Us on GitHub",
-    "loading": "Loading",
+    "inReview": "리뷰에서",
+    "waitingForContributions": "리뷰 대기 중",
+    "starUs": "GitHub에 별표 표시",
+    "loading": "로딩",
     "header": {
       "links": {
         "download": "다운로드",
-        "changelog": "Changelog",
+        "changelog": "변경 기록",
         "discord": "Discord",
         "github": "GitHub"
       }
@@ -18,84 +18,84 @@
       "error": "오류",
       "success": "성공",
       "info": "정보",
-      "dyk": "Did you know?"
+      "dyk": "알고 계십니까?"
     }
   },
   "common": {
     "title": "Floorp 브라우저",
-    "description": "Floorp is a new Firefox based browser from Japan with excellent privacy & flexibility."
+    "description": "Floorp는 뛰어난 개인 정보 보호 및 유연성을 갖춘 일본의 새로운 Firefox 기반 브라우저입니다."
   },
   "downloadPage": {
     "download": "Floorp 다운로드",
-    "downloadAlert": "By downloading Floorp, you agree to the <1>Privacy Policy</1>.",
-    "releaseDate": "Released on: {{date}}",
-    "downloadHashes": "Download hashes",
-    "detect": "Detect",
-    "latest": "Latest",
-    "versions": "Versions",
+    "downloadAlert": "Floorp를 다운로드하면 <1> 개인정보 처리방침 </1>에 동의하는 것입니다.",
+    "releaseDate": "출시 일자: {{date}}",
+    "downloadHashes": "해시 다운로드",
+    "detect": "감지",
+    "latest": "최신",
+    "versions": "버전",
     "assetsTable": {
-      "fileName": "File name",
-      "fileSize": "File size",
-      "architecture": "Architecture"
+      "fileName": "파일 이름",
+      "fileSize": "파일 크기",
+      "architecture": "아키텍처"
     },
     "daylight": {
-      "label": "Download Floorp Daylight",
-      "description": "Floorp Daylight is a beta version of Floorp. It may not work properly.",
-      "alert": "Are you sure you want to download Floorp Daylight? It may not work properly."
+      "label": "Floorp Daylight 다운로드",
+      "description": "Floorp Daylight는 Floorp의 베타 버전입니다. 제대로 작동하지 않을 수 있습니다.",
+      "alert": "Floorp Daylight를 다운로드 하시겠습니까? 제대로 작동하지 않을 수 있습니다."
     },
-    "noReleaseFound": "No releases found."
+    "noReleaseFound": "릴리즈가 발견되지 않았습니다."
   },
   "landingPage": {
-    "hero": "Unlimited\nCustomization\n<1>with Floorp</1>",
+    "hero": "무제한\n사용자 정의\n<1>Floorp와 함께</1>",
     "heroCard": {
-      "download": "Download Floorp",
-      "sourceCode": "View Source Code"
+      "download": "Floorp 다운로드",
+      "sourceCode": "소스 코드 보기"
     },
-    "feature": "Features",
+    "feature": "기능",
     "features": {
       "privacy": {
-        "title": "Strong Tracking Protection",
-        "description": "By default, Floorp includes a robust tracking blocker, protecting users from a variety of malicious trackers lurking on the web. Additionally, it provides fingerprinting protection."
+        "title": "강력한 추적 보호",
+        "description": "기본적으로 Floorp에는 강력한 추적 차단기가 포함되어 있어 웹에 숨어있는 다양한 악성 추적기로부터 사용자를 보호합니다. 또한 지문 보호를 제공합니다."
       },
       "flexible": {
-        "title": "Flexible Layout",
-        "description": "Floorp's layout customization is unlimited. Move the tab bar to the bottom of the window, hide the title bar, and more. Create your own Floorp."
+        "title": "유연한 레이아웃",
+        "description": "Floorp의 레이아웃 사용자 정의는 무제한입니다. 탭 막대를 창의 맨 아래로 이동하고 제목 막대 등을 숨깁니다. 나만의 Floorp를 만드십시오."
       },
       "switchable": {
-        "title": "Customizable Design",
-        "description": "In addition to the usual Firefox theme customization, Floorp allows you to switch between five different interface designs, including OS-specific themes."
+        "title": "사용자 정의 가능한 디자인",
+        "description": "Floorp를 사용하면 일반적인 Firefox 테마 사용자 정의 외에도 OS 별 테마를 포함하여 5가지 인터페이스 디자인 간에 전환 할 수 있습니다."
       },
       "sidebar": {
-        "title": "Regular Updates",
-        "description": "Floorp is based on Firefox ESR. Floorp will be updated every 4 weeks, with security updates provided before each Firefox release."
+        "title": "정기 업데이트",
+        "description": "Floorp는 Firefox ESR을 기반으로 합니다. Floorp는 4주마다 업데이트되며 각 Firefox 릴리스 전에 보안 업데이트가 제공됩니다."
       },
       "noTracking": {
-        "title": "No User Tracking",
-        "description": "We don't collect personal information from users. We don't track users. We don't sell user data. We have no affiliation with any advertising companies."
+        "title": "사용자 추적 없음",
+        "description": "우리는 사용자로부터 개인 정보를 수집하지 않습니다. 우리는 사용자를 추적하지 않습니다. 우리는 사용자 데이터를 판매하지 않습니다. 우리는 어떤 광고 회사와도 제휴하지 않습니다."
       },
       "openSource": {
-        "title": "Powered by Open Source",
-        "description": "Floorp's source code is entirely open, allowing anyone to view it and contribute to the project. Not only is the browser itself open source, but the build environment is as well."
+        "title": "오픈 소스로 구동",
+        "description": "Floorp의 소스 코드는 완전히 열려있어 누구나 볼 수 있고 프로젝트에 기여할 수 있습니다. 브라우저 자체는 오픈 소스 일뿐만 아니라 빌드 환경도 마찬가지입니다."
       }
     },
     "columns": {
       "dualSidebar": {
         "title": "듀얼 사이드바",
-        "description": "Are you not satisfied with just one sidebar? Want to open your website in the sidebar? Floorp features a built-in sidebar that can display a web panel and browser management tools for a comfortable browsing experience.\nA sidebar for busy people! Check everything from bookmarks and history to websites!"
+        "description": "하나의 사이드바에 만족하지 않습니까? 사이드바에서 웹사이트를 열고 싶습니까? Floorp에는 편안한 브라우징 경험을 위해 웹 패널과 브라우저 관리 도구를 표시 할 수 있는 내장 사이드바가 있습니다.\n바쁜 사람들을 위한 사이드 바! 책갈피와 기록, 웹사이트까지 모든 것을 확인하십시오!"
       },
       "flexibleToolbar": {
-        "title": "Flexible Toolbar & Tab Bar",
-        "description": "Organize your web browsing with Tree Style Tabs! Use them as a vertical tabs, or combine them both for ultimate flexibility. Customize your bookmarks bar and more to create the perfect browsing experience. Floorp empowers everyone to personalize their browser, from beginners to CSS experts. Choose from a variety of themes or craft your own with custom CSS!"
+        "title": "유연한 툴바 및 탭 바",
+        "description": "Tree Style Tabs로 웹 브라우징을 구성하십시오! 수직 탭으로 사용하거나 최고의 유연성을 위해 둘 다 결합하십시오. 북마크바 등을 사용자 정의하여 완벽한 브라우징 경험을 만드십시오. Floorp는 초보자부터 CSS 전문가에 이르기까지 모든 사람이 브라우저를 개인화 할 수 있도록 합니다. 다양한 테마 중에서 선택하거나 맞춤형 CSS로 직접 제작하십시오!"
       },
       "privacyProtection": {
-        "title": "Caring about the User and the Web",
-        "description": "Floorp does not track users and only blocks malicious tracking on websites. With Floorp you can build an internet that benefits both websites and users.\nBlocking only harmful trackers by listening to the opinions of both website owners who make a living from advertising and users who want to protect their privacy, why not use Floorp in finding a better internet?"
+        "title": "사용자와 웹에 대한 관심",
+        "description": "Floorp는 사용자를 추적하지 않으며 웹 사이트의 악의적인 추적만 차단합니다. Floorp를 사용하면 웹사이트와 사용자 모두에게 혜택을 주는 인터넷을 구축 할 수 있습니다.\n광고에서 생계를 유지하는 웹사이트 소유자와 개인 정보를 보호하려는 사용자의 의견을 경청하여 유해한 추적기만 차단하십시오. Floorp를 사용하여 더 나은 인터넷을 찾으십시오."
       }
     },
-    "latestArticle": "Latest articles",
+    "latestArticle": "최신 기사",
     "article": {
       "readMore": "더 읽기"
     },
-    "downloadFloorp": "Get the latest version of Floorp browser"
+    "downloadFloorp": "최신 버전의 Floorp 브라우저를 다운로드하세요"
   }
 }
