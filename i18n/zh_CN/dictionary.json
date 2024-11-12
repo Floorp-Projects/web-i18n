@@ -3,7 +3,7 @@
     "languageSelect": "语言",
     "inReview": "审核中",
     "waitingForContributions": "等待审核",
-    "starUs": "在 GitHub 上给我们加星标",
+    "starUs": "在 GitHub 为我们点亮星标",
     "loading": "加载中",
     "header": {
       "links": {
@@ -41,7 +41,7 @@
     "daylight": {
       "label": "下载 Florp Daylight",
       "description": "Floorp Daylight 是 Floorp 的测试版，它可能无法正常工作。",
-      "alert": "您确定要下载 Floorp Daylight ？它可能无法正常工作。"
+      "alert": "您确定要下载 Floorp Daylight 吗？它可能无法正常工作。"
     },
     "noReleaseFound": "未找到发行版本。"
   },
@@ -67,7 +67,7 @@
       },
       "sidebar": {
         "title": "定期更新",
-        "description": "Floorp 基于 Firefox ESR 构建。 我们提供 4 周一次的更新频率，并在 Firefox 发布新版本前提供安全更新。"
+        "description": "Floorp 基于 Firefox ESR。 我们提供 4 周一次的更新频率，并在每次 Firefox 发布新版本前提供安全更新。"
       },
       "noTracking": {
         "title": "无用户跟踪",
