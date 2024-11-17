@@ -3,7 +3,7 @@
     "languageSelect": "語言",
     "inReview": "審查中",
     "waitingForContributions": "等待審查",
-    "starUs": "在 GitHub 上給我們加星標",
+    "starUs": "在 GitHub 為我們点亮星標",
     "loading": "載入中",
     "header": {
       "links": {
@@ -27,7 +27,7 @@
   },
   "downloadPage": {
     "download": "下載 Floorp",
-    "downloadAlert": "下載 Floorp 即表示您同意<1>隱私權政策</1>。",
+    "downloadAlert": "下載 Floorp 即表示您同意 <1>隱私權政策</1>。",
     "releaseDate": "發布日期： {{date}}",
     "downloadHashes": "哈希值",
     "detect": "識別",
@@ -81,7 +81,7 @@
     "columns": {
       "dualSidebar": {
         "title": "雙側邊欄",
-        "description": "您是否滿足於只有一個側邊欄？想要在側邊欄打開妳的網站？Floorp 內置的雙側邊欄可以顯示網頁和瀏覽器管理工具，為妳帶來舒適的瀏覽體驗。\n為您重新設計的側邊欄！可以從書簽、歷史記錄查看妳想要查看的內容！"
+        "description": "您是否满足于只有一个侧边栏？想要在侧边栏打开您的网站？Floorp 内置的双侧边栏可以显示网页和浏览器管理工具，为您带来舒适的浏览体验。\n为您重新设计的侧边栏！可以从书签、历史记录查看你想要查看的内容！"
       },
       "flexibleToolbar": {
         "title": "靈活的工具欄和選項卡欄",
@@ -89,7 +89,7 @@
       },
       "privacyProtection": {
         "title": "關心用戶和網站",
-        "description": "Floorp 不會追蹤用戶，只阻止網站的惡意跟蹤。透過 Floorp，您可以建立一個對網站和使用者都有利的互聯網。\n我們聽取了以廣告為生的網站運營商和希望保護隱私的用戶的意見，只阻止有害的追蹤器。 使用 Floorp，為了更好的互聯網。"
+        "description": "Floorp 不會追蹤用戶，只阻止網站的惡意跟蹤。使用 Floorp，您可以建立一個對網站和使用者都有利的互聯網。\n我們聽取了以廣告為生的網站運營商和希望保護隱私的用戶的意見，只阻止有害的追蹤器。 使用 Floorp，為了更好的互聯網。"
       }
     },
     "latestArticle": "最新文章",
