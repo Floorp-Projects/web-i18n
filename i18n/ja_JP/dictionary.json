@@ -27,6 +27,8 @@
   },
   "downloadPage": {
     "download": "Floorp をダウンロード",
+    "downloadPPA": "Download Floorp from PPA",
+    "downloadFlatpak": "Download Floorp from Flathub",
     "downloadAlert": "Floorp をダウンロードすると、<1>プライバシーポリシー</1>に同意したものとみなされます。",
     "releaseDate": "リリース日: {{date}}",
     "downloadHashes": "ハッシュをダウンロード",
