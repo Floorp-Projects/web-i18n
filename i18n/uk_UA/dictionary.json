@@ -27,6 +27,8 @@
   },
   "downloadPage": {
     "download": "Завантажити Floorp",
+    "downloadPPA": "Download Floorp from PPA",
+    "downloadFlatpak": "Download Floorp from Flathub",
     "downloadAlert": "Завантажуючи Floorp, ви погоджуєтесь з <1>Політикою Конфіденційності</1>.",
     "releaseDate": "Випущено в: {{date}}",
     "downloadHashes": "Завантажити хеш",
