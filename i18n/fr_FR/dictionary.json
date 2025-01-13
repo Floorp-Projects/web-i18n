@@ -27,6 +27,8 @@
   },
   "downloadPage": {
     "download": "Télécharger Floorp",
+    "downloadPPA": "Download Floorp from PPA",
+    "downloadFlatpak": "Download Floorp from Flathub",
     "downloadAlert": "En téléchargeant Floorp, vous acceptez la <1>Politique de Confidentialité</1>.",
     "releaseDate": "Sortie le : {{date}}",
     "downloadHashes": "Télécharger les hashes",
