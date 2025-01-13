@@ -27,6 +27,8 @@
   },
   "downloadPage": {
     "download": "下載 Floorp",
+    "downloadPPA": "Download Floorp from PPA",
+    "downloadFlatpak": "Download Floorp from Flathub",
     "downloadAlert": "下載 Floorp 即表示您同意 <1>隱私權政策</1>。",
     "releaseDate": "發布日期： {{date}}",
     "downloadHashes": "哈希值",
