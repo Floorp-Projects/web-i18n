@@ -32,7 +32,7 @@
       "command": {
         "comment1": "# Add the GPG keys to your system\n",
         "comment2": "# Add the repository to your system\n",
-        "comment3": "# Update the package list\n"
+        "comment3": "# Update the package list and install Floorp\n"
       }
     },
     "downloadFlatpak": {
