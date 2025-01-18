@@ -27,8 +27,25 @@
   },
   "downloadPage": {
     "download": "Download Floorp",
-    "downloadPPA": "Download Floorp from PPA",
-    "downloadFlatpak": "Download Floorp from Flathub",
+    "downloadPPA": {
+      "title": "Download Floorp with PPA",
+      "command": {
+        "comment1": "# Add the GPG keys to your system\n",
+        "comment2": "# Add the repository to your system\n",
+        "comment3": "# Update the package list\n"
+      }
+    },
+    "downloadFlatpak": {
+      "title": "Download Floorp with Flatpak",
+      "command": {
+        "comment1": "# Install Floorp with Flatpak\n"
+      }
+    },
+    "downloadConvenience": {
+      "title": "Download Floorp with our convenience script",
+      "description": "Just one line and you're ready to go! This script will automatically download and install the latest version of Floorp for you.",
+      "hint": "If you encounter any issues with the script, please check the issues <1>here</1>. If you need help, please ask in our <2>Discord server</2>."
+    },
     "downloadAlert": "By downloading Floorp, you agree to the <1>Privacy Policy</1>.",
     "releaseDate": "Released on: {{date}}",
     "downloadHashes": "Download hashes",
