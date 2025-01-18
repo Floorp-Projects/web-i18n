@@ -36,7 +36,7 @@
       }
     },
     "downloadOtherTable": {
-      "title": "Hashes and other linux binaries",
+      "title": "Hashes and other linux binaries"
     },
     "downloadFlatpak": {
       "title": "Download Floorp with Flatpak",
