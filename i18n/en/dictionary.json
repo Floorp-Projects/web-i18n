@@ -35,6 +35,9 @@
         "comment3": "# Update the package list and install Floorp\n"
       }
     },
+    "downloadOtherTable": {
+      "title": "Hashes and other linux binaries",
+    },
     "downloadFlatpak": {
       "title": "Download Floorp with Flatpak",
       "command": {
