@@ -28,26 +28,26 @@
   "downloadPage": {
     "download": "Floorp をダウンロード",
     "downloadPPA": {
-      "title": "Download Floorp with PPA",
+      "title": "PPA で Floorp をダウンロード",
       "command": {
-        "comment1": "# Add the GPG keys to your system\n",
-        "comment2": "# Add the repository to your system\n",
-        "comment3": "# Update the package list and install Floorp\n"
+        "comment1": "# システムに GPG キーを追加します\n",
+        "comment2": "# システムにリポジトリを追加します\n",
+        "comment3": "# パッケージリストを更新し、Floorp をインストールします\n"
       }
     },
     "downloadOtherTable": {
-      "title": "Hashes and other linux binaries"
+      "title": "ハッシュとその他の Linux バイナリ"
     },
     "downloadFlatpak": {
-      "title": "Download Floorp with Flatpak",
+      "title": "Flatpak で Floorp をダウンロード",
       "command": {
-        "comment1": "# Install Floorp with Flatpak\n"
+        "comment1": "# Flatpak で Floorp をインストールします\n"
       }
     },
     "downloadConvenience": {
-      "title": "Download Floorp with our convenience script",
-      "description": "Just one line and you're ready to go! This script will automatically download and install the latest version of Floorp for you.",
-      "hint": "スクリプトで問題が発生した場合は、<1>こちら</1>を確認してください。サポートが必要な場合は、<2>Discord サーバー</2>でご連絡ください。"
+      "title": "便利なスクリプトを使って Floorp をダウンロード",
+      "description": "たった1行で、インストールできます！ このスクリプトは、最新バージョンの Floorp を自動的にダウンロードしてインストールします。",
+      "hint": "スクリプトで問題が発生した場合は、<1>こちら</1>をご確認ください。サポートが必要な場合は、<2>Discord サーバー</2>でご連絡ください。"
     },
     "downloadAlert": "Floorp をダウンロードすると、<1>プライバシーポリシー</1>に同意したものとみなされます。",
     "releaseDate": "リリース日: {{date}}",
