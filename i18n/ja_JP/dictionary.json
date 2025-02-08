@@ -47,7 +47,7 @@
     "downloadConvenience": {
       "title": "Download Floorp with our convenience script",
       "description": "Just one line and you're ready to go! This script will automatically download and install the latest version of Floorp for you.",
-      "hint": "If you encounter any issues with the script, please check the issues <1>here</1>. If you need help, please ask in our <2>Discord server</2>."
+      "hint": "スクリプトで問題が発生した場合は、<1>こちら</1>を確認してください。サポートが必要な場合は、<2>Discord サーバー</2>でご連絡ください。"
     },
     "downloadAlert": "Floorp をダウンロードすると、<1>プライバシーポリシー</1>に同意したものとみなされます。",
     "releaseDate": "リリース日: {{date}}",
