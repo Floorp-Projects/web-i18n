@@ -28,7 +28,7 @@
   "downloadPage": {
     "download": "Загрузить Floorp",
     "downloadPPA": {
-      "title": "Download Floorp with PPA",
+      "title": "Скачать Floorp через PPA",
       "command": {
         "comment1": "# Add the GPG keys to your system\n",
         "comment2": "# Add the repository to your system\n",
