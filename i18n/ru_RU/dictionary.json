@@ -30,24 +30,24 @@
     "downloadPPA": {
       "title": "Скачать Floorp через PPA",
       "command": {
-        "comment1": "# Add the GPG keys to your system\n",
-        "comment2": "# Add the repository to your system\n",
-        "comment3": "# Update the package list and install Floorp\n"
+        "comment1": "# Добавьте ключи GPG в свою систему\n",
+        "comment2": "# Добавьте репозиторий в свою систему\n",
+        "comment3": "# Обновите список пакетов и установите Floorp\n"
       }
     },
     "downloadOtherTable": {
-      "title": "Hashes and other linux binaries"
+      "title": "Хеши и другие файлы linux"
     },
     "downloadFlatpak": {
-      "title": "Download Floorp with Flatpak",
+      "title": "Загрузить Floorp с помощью Flatpak",
       "command": {
-        "comment1": "# Install Floorp with Flatpak\n"
+        "comment1": "# Установка Floorp с помощью Flatpak\n"
       }
     },
     "downloadConvenience": {
-      "title": "Download Floorp with our convenience script",
-      "description": "Just one line and you're ready to go! This script will automatically download and install the latest version of Floorp for you.",
-      "hint": "If you encounter any issues with the script, please check the issues <1>here</1>. If you need help, please ask in our <2>Discord server</2>."
+      "title": "Загрузите Floorp с помощью нашего удобного скрипта",
+      "description": "Всего одна строка, и вы готовы к работе! Этот скрипт автоматически загрузит и установит последнюю версию Floorp для вас.",
+      "hint": "Если у вас возникнут проблемы со скриптом, ознакомьтесь с ними <1>здесь</1>. Если вам нужна помощь, обратитесь на наш <2>сервер Discord</2>."
     },
     "downloadAlert": "Загружая Floorp, вы соглашаетесь с <1>Политикой Конфиденциальности</1>.",
     "releaseDate": "Выпущен в {{date}}",
