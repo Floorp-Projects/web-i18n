@@ -28,26 +28,26 @@
   "downloadPage": {
     "download": "下載 Floorp",
     "downloadPPA": {
-      "title": "Download Floorp with PPA",
+      "title": "使用 PPA 下載 Floorp",
       "command": {
-        "comment1": "# Add the GPG keys to your system\n",
-        "comment2": "# Add the repository to your system\n",
-        "comment3": "# Update the package list and install Floorp\n"
+        "comment1": "# 將 GPG 金鑰添加到您的系統中\n",
+        "comment2": "# 將倉庫添加到您的系統中\n",
+        "comment3": "更新軟體包清單並安裝 Floorp\n"
       }
     },
     "downloadOtherTable": {
-      "title": "Hashes and other linux binaries"
+      "title": "哈希及其他 Linux 二進制檔案"
     },
     "downloadFlatpak": {
-      "title": "Download Floorp with Flatpak",
+      "title": "使用 Flatpak 下載 Floorp",
       "command": {
-        "comment1": "# Install Floorp with Flatpak\n"
+        "comment1": "使用 Flatpak 安裝 Floorp\n"
       }
     },
     "downloadConvenience": {
-      "title": "Download Floorp with our convenience script",
-      "description": "Just one line and you're ready to go! This script will automatically download and install the latest version of Floorp for you.",
-      "hint": "If you encounter any issues with the script, please check the issues <1>here</1>. If you need help, please ask in our <2>Discord server</2>."
+      "title": "使用我們提供的腳本下載 Floorp",
+      "description": "只需要一行命令就可以開始使用！此腳本將自動下載並安裝最新版本的 Floorp。",
+      "hint": "如果您在使用腳本時遇到任何問題，請在<1>此處</1>進行查詢。如果您需要支援，請在我們的<2> Discord 伺服器</2>中進行溝通。"
     },
     "downloadAlert": "下載 Floorp 即表示您同意 <1>隱私權政策</1>。",
     "releaseDate": "發布日期： {{date}}",
